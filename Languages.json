@@ -964,24 +964,6 @@
       {
         "name": "English",
         "value": "A Pure Player Exists"
-      },
-      {
-        "name": "SChinese",
-        "value": "游戏开始后冷却"
-      }
-    ]
-  },
-  {
-    "id": "CustomOption.Sacrifice",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Altruist Sacrifices Self On Last Revive"
-      },
-      {
-        "name": "SChinese",
-        "value": "游戏开始后冷却"
       }
     ]
   },
@@ -1035,11 +1017,7 @@
     [
       {
         "name": "English",
-        "value": "Player Report Distance"
-      },
-      {
-        "name": "SChinese",
-        "value": "最大报告距离"
+        "value": "Body Report Distance"
       }
     ]
   },
@@ -4824,7 +4802,47 @@
     ]
   },
   {
-    "ids": [ "CustomOption.CommonTasks", "CustomOption.HnSCommonTasks", "CustomOption.TRCommonTasks" ],
+    "id": "CustomOption.NoWelcome",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Disable The Welcome Message"
+      }
+    ]
+  },
+  {
+    "id": "CustomOption.AutoPlayAgain",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Automatically Select 'Play Again'"
+      }
+    ]
+  },
+  {
+    "id": "CustomOption.NoVentingUncleanedVents",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Germophobic Venters"
+      }
+    ]
+  },
+  {
+    "id": "CustomOption.TaskSettings",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Tasks"
+      }
+    ]
+  },
+  {
+    "id": "CustomOption.CommonTasks",
     "values":
     [
       {
@@ -4834,7 +4852,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.LongTasks", "CustomOption.HnSLongTasks", "CustomOption.TRLongTasks" ],
+    "id": "CustomOption.LongTasks",
     "values":
     [
       {
@@ -4844,7 +4862,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.ShortTasks", "CustomOption.HnSShortTasks", "CustomOption.TRShortTasks" ],
+    "id": "CustomOption.ShortTasks",
     "values":
     [
       {
@@ -4859,7 +4877,7 @@
     [
       {
         "name": "English",
-        "value": "<#8CFFFFFF>Crew</color> Ghost Tasks Count To Win"
+        "value": "Ghost Tasks Count To Win"
       }
     ]
   },
@@ -5607,16 +5625,6 @@
     ]
   },
   {
-    "id": "CustomOption.MaxRevives",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Max Revives"
-      }
-    ]
-  },
-  {
     "id": "CustomOption.ReviveCd",
     "values":
     [
@@ -5637,12 +5645,62 @@
     ]
   },
   {
-    "id": "CustomOption.AltruistTargetBody",
+    "ids": [ "CustomOption.AltManaCd", "CustomOption.NecroManaCd" ],
     "values":
     [
       {
         "name": "English",
-        "value": "Target's Body Disappears On The Start Of Revive"
+        "value": "Mana Gain Cooldown"
+      }
+    ]
+  },
+  {
+    "ids": [ "CustomOption.MaxAltMana", "CustomOption.MaxNecroMana" ],
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Max Mana"
+      }
+    ]
+  },
+  {
+    "ids": [ "CustomOption.AltManaGainedPerBody", "CustomOption.NceroManaGainedPerBody" ],
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Mana Gained Per Body"
+      }
+    ]
+  },
+  {
+    "ids": [ "CustomOption.PassiveAltManaGain", "CustomOption.PassiveNecroManaGain" ],
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Mana Gained At The Start Of A Meeting"
+      }
+    ]
+  },
+  {
+    "ids": [ "CustomOption.AltManaCost", "CustomOption.NecroManaCost" ],
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Mana Required To Bring Life"
+      }
+    ]
+  },
+  {
+    "ids": [ "CustomOption.AltruistTargetBody", "CustomOption.NecromancerTargetBody" ],
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Target Body Disappears"
       }
     ]
   },
@@ -7537,36 +7595,6 @@
     ]
   },
   {
-    "id": "CustomOption.ResurrectCdIncrease",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Resurrect Cooldown Increases By"
-      }
-    ]
-  },
-  {
-    "id": "CustomOption.ResurrectCdIncreases",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Resurrect Cooldown Increases Per Use"
-      }
-    ]
-  },
-  {
-    "id": "CustomOption.MaxResurrections",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Max Resurrections"
-      }
-    ]
-  },
-  {
     "id": "CustomOption.SacrificeCd",
     "values":
     [
@@ -7613,16 +7641,6 @@
       {
         "name": "English",
         "value": "Sacrifice And Resurrect Cooldowns Are Linked"
-      }
-    ]
-  },
-  {
-    "id": "CustomOption.NecromancerTargetBody",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Target's Body Disappears On The Start Of Resurrect"
       }
     ]
   },
@@ -10789,7 +10807,7 @@
     ]
   },
   {
-    "ids": [ "RoleOption.", "Translation.ReworkedStart" ],
+    "ids": [ "RoleOption.", "Translation.ReworkedStart", "Option.Option" ],
     "isblank": true
   },
   {
@@ -10889,6 +10907,1706 @@
       {
         "name": "English",
         "value": "Neutral Games Played:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Altruist",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Altruist:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Bastion",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Bastion:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Chameleon",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Chameleon:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Coroner",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Coroner:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Crewmate",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Crewmate:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Detective",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Detective:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Dictator",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Dictator:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Engineer",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Engineer:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Escort",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Escort:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Mayor",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Mayor:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Medic",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Medic:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Medium",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Medium:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Monarch",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Monarch:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Mystic",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Mystic:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Operative",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Operative:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Retributionist",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Retributionist:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Revealer",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Revealer:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Seer",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Seer:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Sheriff",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Sheriff:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Shifter",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Shifter:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Tracker",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Tracker:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Transporter",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Transporter:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Trapper",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Trapper:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.VampireHunter",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as VampireHunter:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Veteran",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Veteran:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Vigilante",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Vigilante:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Actor",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Actor:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Amnesiac",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Amnesiac:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Arsonist",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Arsonist:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Betrayer",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Betrayer:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.BountyHunter",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as BountyHunter:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Cannibal",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Cannibal:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Cryomaniac",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Cryomaniac:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Dracula",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Dracula:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Executioner",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Executioner:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Glitch",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Glitch:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.GuardianAngel",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as GuardianAngel:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Guesser",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Guesser:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Jackal",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Jackal:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Jester",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Jester:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Juggernaut",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Juggernaut:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Murderer",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Murderer:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Necromancer",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Necromancer:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Pestilence",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Pestilence:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Phantom",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Phantom:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Plaguebearer",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Plaguebearer:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.SerialKiller",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as SerialKiller:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Survivor",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Survivor:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Thief",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Thief:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Troll",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Troll:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Werewolf",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Werewolf:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Whisperer",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Whisperer:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Ambusher",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Ambusher:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Blackmailer",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Blackmailer:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Camouflager",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Camouflager:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Consigliere",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Consigliere:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Consort",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Consort:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Disguiser",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Disguiser:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Enforcer",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Enforcer:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Ghoul",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Ghoul:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Godfather",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Godfather:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Grenadier",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Grenadier:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Impostor",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Impostor:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Janitor",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Janitor:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Mafioso",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Mafioso:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Miner",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Miner:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Morphling",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Morphling:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.PromotedGodfather",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as PromotedGodfather:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Teleporter",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Teleporter:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Wraith",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Wraith:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Anarchist",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Anarchist:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Banshee",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Banshee:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Bomber",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Bomber:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Collider",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Collider:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Concealer",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Concealer:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Crusader",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Crusader:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Drunkard",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Drunkard:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Framer",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Framer:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Poisoner",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Poisoner:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.PromotedRebel",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as PromotedRebel:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Rebel",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Rebel:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Shapeshifter",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Shapeshifter:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Sidekick",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Sidekick:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Silencer",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Silencer:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Spellslinger",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Spellslinger:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Stalker",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Stalker:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Timekeeper",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Timekeeper:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Warper",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Warper:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Hunter",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Hunter:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Hunted",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Hunted:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Runner",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Runner:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Astral",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Astral:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Bait",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Bait:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Colorblind",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Colorblind:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Coward",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Coward:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Diseased",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Diseased:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Drunk",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Drunk:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Dwarf",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Dwarf:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Giant",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Giant:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Indomitable",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Indomitable:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Professional",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Professional:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Shy",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Shy:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.VIP",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as VIP:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Volatile",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Volatile:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Yeller",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Yeller:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Allied",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Allied:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Corrupted",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Corrupted:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Defector",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Defector:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Fanatic",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Fanatic:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Linked",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Linked:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Lovers",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Lovers:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Mafia",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Mafia:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Overlord",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Overlord:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Rivals",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Rivals:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Taskmaster",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Taskmaster:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Traitor",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Traitor:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Assassin",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Assassin:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Bullseye",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Bullseye:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.ButtonBarry",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as ButtonBarry:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Hitman",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Hitman:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Insider",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Insider:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Multitasker",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Multitasker:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Ninja",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Ninja:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Politician",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Politician:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Radar",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Radar:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Ruthless",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Ruthless:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Slayer",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Slayer:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Sniper",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Sniper:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Snitch",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Snitch:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Swapper",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Swapper:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Tiebreaker",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Tiebreaker:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Torch",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Torch:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Tunneler",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Tunneler:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Underdog",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Underdog:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Undead",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Undead:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Sect",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Sect:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Cabal",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Cabal:"
+      }
+    ]
+  },
+  {
+    "id": "LayerWins.Reanimated",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won as Reanimated:"
+      }
+    ]
+  },
+  {
+    "id": "MapWins.Skeld",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won on Skeld:"
+      }
+    ]
+  },
+  {
+    "id": "MapWins.MiraHQ",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won on Mira HQ:"
+      }
+    ]
+  },
+  {
+    "id": "MapWins.Polus",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won on Polus:"
+      }
+    ]
+  },
+  {
+    "id": "MapWins.Airship",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won on Airship:"
+      }
+    ]
+  },
+  {
+    "id": "MapWins.Fungle",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won on Fungle:"
+      }
+    ]
+  },
+  {
+    "id": "MapWins.Submerged",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won on Submerged:"
+      }
+    ]
+  },
+  {
+    "id": "MapWins.LevelImpostor",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won on Level Impostor:"
+      }
+    ]
+  },
+  {
+    "id": "MapWins.dlekS",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Games Won on dlekS:"
+      }
+    ]
+  },
+  {
+    "id": "Achievement.TasteForDeath.Title",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Taste For Death"
+      }
+    ]
+  },
+  {
+    "id": "Achievement.TasteForDeath.Description",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Kill For The First Time"
+      }
+    ]
+  },
+  {
+    "id": "Achievement.Fatality.Title",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Fatality"
+      }
+    ]
+  },
+  {
+    "id": "Achievement.FirstBlood.Title",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "First Blood"
+      }
+    ]
+  },
+  {
+    "id": "Achievement.FirstBlood.Description",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Make The First Kill Of The Game"
+      }
+    ]
+  },
+  {
+    "id": "Achievement.LastBlood.Title",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Last Blood"
+      }
+    ]
+  },
+  {
+    "id": "Achievement.LastBlood.Description",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Make The Last Kill Of The Game"
+      }
+    ]
+  },
+  {
+    "id": "Achievement.Fatality.Description",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Die For The First Time"
+      }
+    ]
+  },
+  {
+    "id": "Achievement.Resilient.Title",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Resilient"
+      }
+    ]
+  },
+  {
+    "id": "Achievement.Resilient.Description",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Survive An Attack"
+      }
+    ]
+  },
+  {
+    "id": "Achievement.Revitalised.Title",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Revitalised"
+      }
+    ]
+  },
+  {
+    "id": "Achievement.Revitalised.Description",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Get Revived"
+      }
+    ]
+  },
+  {
+    "id": "Achievement.RekindledPower.Title",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Rekindled Power"
+      }
+    ]
+  },
+  {
+    "id": "Achievement.RekindledPower.Description",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Revive A Crew Sovereign Role As Either A Necromancer Or An Altruist"
+      }
+    ]
+  },
+  {
+    "id": "Achievement.Pacifist.Title",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Pacifist"
+      }
+    ]
+  },
+  {
+    "id": "Achievement.Pacifist.Description",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Win As A Killing Role Without Actually Killing Anyone"
+      }
+    ]
+  },
+  {
+    "id": "Achievement.Bloodthirsty.Title",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Bloodthirsty"
+      }
+    ]
+  },
+  {
+    "id": "Achievement.Bloodthirsty.Description",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Win As A Killing Role By Killing The Most Number Of Players"
+      }
+    ]
+  },
+  {
+    "id": "Achievement.LayerWins.Altruist.Title",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Saviour"
+      }
+    ]
+  },
+  {
+    "id": "Achievement.LayerWins.Altruist.Description",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Win 5 games as Altruist"
+      }
+    ]
+  },
+  {
+    "id": "Achievement.Test.Title",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Test"
+      }
+    ]
+  },
+  {
+    "id": "Achievement.Test.Description",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Test achievement"
+      }
+    ]
+  },
+  {
+    "id": "Page.Scroll",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "(Scroll For More)"
+      }
+    ]
+  },
+  {
+    "id": "Title.Achievements",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Achievements"
       }
     ]
   }
