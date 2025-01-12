@@ -2674,7 +2674,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Mystic", "CustomOption.Mystic1", "RoleList.Mystic" ],
+    "ids": [ "CustomOption.Mystic", "CustomOption.Mystic1", "RoleList.Mystic", "Layer.Mystic" ],
     "values":
     [
       {
@@ -2688,7 +2688,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.VampireHunter", "CustomOption.VampireHunter1", "RoleList.VampireHunter" ],
+    "ids": [ "CustomOption.VampireHunter", "CustomOption.VampireHunter1", "RoleList.VampireHunter", "Layer.VampireHunter" ],
     "values":
     [
       {
@@ -2716,7 +2716,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Coroner", "CustomOption.Coroner1", "RoleList.Coroner" ],
+    "ids": [ "CustomOption.Coroner", "CustomOption.Coroner1", "RoleList.Coroner", "Layer.Coroner" ],
     "values":
     [
       {
@@ -2730,7 +2730,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Detective", "CustomOption.Detective1", "RoleList.Detective" ],
+    "ids": [ "CustomOption.Detective", "CustomOption.Detective1", "RoleList.Detective", "Layer.Detective" ],
     "values":
     [
       {
@@ -2744,7 +2744,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Medium", "CustomOption.Medium1", "RoleList.Medium" ],
+    "ids": [ "CustomOption.Medium", "CustomOption.Medium1", "RoleList.Medium", "Layer.Medium" ],
     "values":
     [
       {
@@ -2758,7 +2758,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Operative", "CustomOption.AdminDeadPlayers.Operative", "CustomOption.Operative1", "RoleList.Operative" ],
+    "ids": [ "CustomOption.Operative", "CustomOption.AdminDeadPlayers.Operative", "CustomOption.Operative1", "RoleList.Operative", "Layer.Operative" ],
     "values":
     [
       {
@@ -2772,7 +2772,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Seer", "CustomOption.Seer1", "RoleList.Seer" ],
+    "ids": [ "CustomOption.Seer", "CustomOption.Seer1", "RoleList.Seer", "Layer.Seer" ],
     "values":
     [
       {
@@ -2786,7 +2786,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Sheriff", "CustomOption.Sheriff1", "RoleList.Sheriff" ],
+    "ids": [ "CustomOption.Sheriff", "CustomOption.Sheriff1", "RoleList.Sheriff", "Layer.Sheriff" ],
     "values":
     [
       {
@@ -2800,7 +2800,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Tracker", "CustomOption.Tracker1", "RoleList.Tracker" ],
+    "ids": [ "CustomOption.Tracker", "CustomOption.Tracker1", "RoleList.Tracker", "Layer.Tracker" ],
     "values":
     [
       {
@@ -2828,7 +2828,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Bastion", "CustomOption.Bastion1", "RoleList.Bastion" ],
+    "ids": [ "CustomOption.Bastion", "CustomOption.Bastion1", "RoleList.Bastion", "Layer.Bastion" ],
     "values":
     [
       {
@@ -2838,7 +2838,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Vigilante", "CustomOption.Vigilante1", "RoleList.Vigilante" ],
+    "ids": [ "CustomOption.Vigilante", "CustomOption.Vigilante1", "RoleList.Vigilante", "Layer.Vigilante" ],
     "values":
     [
       {
@@ -2852,7 +2852,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Veteran", "CustomOption.Veteran1", "RoleList.Veteran" ],
+    "ids": [ "CustomOption.Veteran", "CustomOption.Veteran1", "RoleList.Veteran", "Layer.Veteran" ],
     "values":
     [
       {
@@ -2880,7 +2880,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Altruist", "CustomOption.Altruist1", "RoleList.Altruist" ],
+    "ids": [ "CustomOption.Altruist", "CustomOption.Altruist1", "RoleList.Altruist", "Layer.Altruist" ],
     "values":
     [
       {
@@ -2894,7 +2894,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Medic", "CustomOption.ShieldOptions.Medic", "CustomOption.Medic1", "RoleList.Medic" ],
+    "ids": [ "CustomOption.Medic", "CustomOption.ShieldOptions.Medic", "CustomOption.Medic1", "RoleList.Medic", "Layer.Medic" ],
     "values":
     [
       {
@@ -2908,7 +2908,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Trapper", "CustomOption.Trapper1", "RoleList.Trapper" ],
+    "ids": [ "CustomOption.Trapper", "CustomOption.Trapper1", "RoleList.Trapper", "Layer.Trapper" ],
     "values":
     [
       {
@@ -2932,7 +2932,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Mayor", "CustomOption.Mayor1", "RoleList.Mayor" ],
+    "ids": [ "CustomOption.Mayor", "CustomOption.Mayor1", "RoleList.Mayor", "Layer.Mayor" ],
     "values":
     [
       {
@@ -2946,7 +2946,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Monarch", "CustomOption.Monarch1", "RoleList.Monarch" ],
+    "ids": [ "CustomOption.Monarch", "CustomOption.Monarch1", "RoleList.Monarch", "Layer.Monarch" ],
     "values":
     [
       {
@@ -2960,7 +2960,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Dictator", "CustomOption.Dictator1", "RoleList.Dictator" ],
+    "ids": [ "CustomOption.Dictator", "CustomOption.Dictator1", "RoleList.Dictator", "Layer.Dictator" ],
     "values":
     [
       {
@@ -2988,7 +2988,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Chameleon", "CustomOption.Chameleon1", "RoleList.Chameleon" ],
+    "ids": [ "CustomOption.Chameleon", "CustomOption.Chameleon1", "RoleList.Chameleon", "Layer.Chameleon" ],
     "values":
     [
       {
@@ -3002,7 +3002,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Escort", "CustomOption.Escort1", "RoleList.Escort" ],
+    "ids": [ "CustomOption.Escort", "CustomOption.Escort1", "RoleList.Escort", "Layer.Escort" ],
     "values":
     [
       {
@@ -3016,7 +3016,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Engineer", "CustomOption.Engineer1", "RoleList.Engineer" ],
+    "ids": [ "CustomOption.Engineer", "CustomOption.Engineer1", "RoleList.Engineer", "Layer.Engineer" ],
     "values":
     [
       {
@@ -3030,7 +3030,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Retributionist", "CustomOption.Retributionist1", "RoleList.Retributionist" ],
+    "ids": [ "CustomOption.Retributionist", "CustomOption.Retributionist1", "RoleList.Retributionist", "Layer.Retributionist" ],
     "values":
     [
       {
@@ -3044,7 +3044,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Shifter", "CustomOption.BecomeEnum.Shifter", "CustomOption.Shifter1", "RoleList.Shifter" ],
+    "ids": [ "CustomOption.Shifter", "CustomOption.BecomeEnum.Shifter", "CustomOption.Shifter1", "RoleList.Shifter", "Layer.Shifter" ],
     "values":
     [
       {
@@ -3058,7 +3058,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Transporter", "CustomOption.Transporter1", "RoleList.Transporter" ],
+    "ids": [ "CustomOption.Transporter", "CustomOption.Transporter1", "RoleList.Transporter", "Layer.Transporter" ],
     "values":
     [
       {
@@ -3086,7 +3086,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Revealer", "CustomOption.Revealer1", "RoleList.Revealer" ],
+    "ids": [ "CustomOption.Revealer", "CustomOption.Revealer1", "RoleList.Revealer", "Layer.Revealer" ],
     "values":
     [
       {
@@ -3100,7 +3100,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Crewmate", "CustomOption.BecomeEnum.Crewmate", "RoleList.Crewmate" ],
+    "ids": [ "CustomOption.Crewmate", "CustomOption.BecomeEnum.Crewmate", "RoleList.Crewmate", "Layer.Crewmate" ],
     "values":
     [
       {
@@ -3128,7 +3128,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Amnesiac", "CustomOption.Amnesiac1", "RoleList.Amnesiac" ],
+    "ids": [ "CustomOption.Amnesiac", "CustomOption.Amnesiac1", "RoleList.Amnesiac", "Layer.Amnesiac" ],
     "values":
     [
       {
@@ -3142,7 +3142,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.GuardianAngel", "CustomOption.ProtectOptions.GA", "CustomOption.GuardianAngel1", "RoleList.GuardianAngel" ],
+    "ids": [ "CustomOption.GuardianAngel", "CustomOption.ProtectOptions.GA", "CustomOption.GuardianAngel1", "RoleList.GuardianAngel", "Layer.GuardianAngel" ],
     "values":
     [
       {
@@ -3156,7 +3156,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Survivor", "CustomOption.Survivor1", "RoleList.Survivor" ],
+    "ids": [ "CustomOption.Survivor", "CustomOption.Survivor1", "RoleList.Survivor", "Layer.Survivor" ],
     "values":
     [
       {
@@ -3170,7 +3170,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Thief", "CustomOption.Thief1", "RoleList.Thief" ],
+    "ids": [ "CustomOption.Thief", "CustomOption.Thief1", "RoleList.Thief", "Layer.Thief" ],
     "values":
     [
       {
@@ -3198,7 +3198,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Actor", "CustomOption.Actor1", "RoleList.Actor" ],
+    "ids": [ "CustomOption.Actor", "CustomOption.Actor1", "RoleList.Actor", "Layer.Actor" ],
     "values":
     [
       {
@@ -3212,7 +3212,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.BountyHunter", "CustomOption.BountyHunter1", "RoleList.BountyHunter" ],
+    "ids": [ "CustomOption.BountyHunter", "CustomOption.BountyHunter1", "RoleList.BountyHunter", "Layer.BountyHunter" ],
     "values":
     [
       {
@@ -3226,7 +3226,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Cannibal", "CustomOption.Cannibal1", "RoleList.Cannibal" ],
+    "ids": [ "CustomOption.Cannibal", "CustomOption.Cannibal1", "RoleList.Cannibal", "Layer.Cannibal" ],
     "values":
     [
       {
@@ -3240,7 +3240,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Executioner", "CustomOption.Executioner1", "RoleList.Executioner" ],
+    "ids": [ "CustomOption.Executioner", "CustomOption.Executioner1", "RoleList.Executioner", "Layer.Executioner" ],
     "values":
     [
       {
@@ -3254,7 +3254,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Guesser", "CustomOption.Guesser1", "RoleList.Guesser" ],
+    "ids": [ "CustomOption.Guesser", "CustomOption.Guesser1", "RoleList.Guesser", "Layer.Guesser" ],
     "values":
     [
       {
@@ -3268,7 +3268,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Jester", "CustomOption.Jester1", "RoleList.Jester" ],
+    "ids": [ "CustomOption.Jester", "CustomOption.Jester1", "RoleList.Jester", "Layer.Jester" ],
     "values":
     [
       {
@@ -3282,7 +3282,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Troll", "CustomOption.Troll1", "RoleList.Troll" ],
+    "ids": [ "CustomOption.Troll", "CustomOption.Troll1", "RoleList.Troll", "Layer.Troll" ],
     "values":
     [
       {
@@ -3310,7 +3310,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Plaguebearer", "CustomOption.Plaguebearer1", "RoleList.Plaguebearer" ],
+    "ids": [ "CustomOption.Plaguebearer", "CustomOption.Plaguebearer1", "RoleList.Plaguebearer", "Layer.Plaguebearer" ],
     "values":
     [
       {
@@ -3334,7 +3334,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Pestilence", "CustomOption.Pestilence1", "RoleList.Pestilence" ],
+    "ids": [ "CustomOption.Pestilence", "CustomOption.Pestilence1", "RoleList.Pestilence", "Layer.Pestilence" ],
     "values":
     [
       {
@@ -3358,7 +3358,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Arsonist", "CustomOption.Arsonist1", "RoleList.Arsonist" ],
+    "ids": [ "CustomOption.Arsonist", "CustomOption.Arsonist1", "RoleList.Arsonist", "Layer.Arsonist" ],
     "values":
     [
       {
@@ -3372,7 +3372,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Cryomaniac", "CustomOption.Cryomaniac1", "RoleList.Cryomaniac" ],
+    "ids": [ "CustomOption.Cryomaniac", "CustomOption.Cryomaniac1", "RoleList.Cryomaniac", "Layer.Cryomaniac" ],
     "values":
     [
       {
@@ -3386,7 +3386,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Glitch", "CustomOption.Glitch1", "RoleList.Glitch" ],
+    "ids": [ "CustomOption.Glitch", "CustomOption.Glitch1", "RoleList.Glitch", "Layer.Glitch" ],
     "values":
     [
       {
@@ -3400,7 +3400,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Juggernaut", "CustomOption.Juggernaut1", "RoleList.Juggernaut" ],
+    "ids": [ "CustomOption.Juggernaut", "CustomOption.Juggernaut1", "RoleList.Juggernaut", "Layer.Juggernaut" ],
     "values":
     [
       {
@@ -3414,7 +3414,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Murderer", "CustomOption.Murderer1", "RoleList.Murderer" ],
+    "ids": [ "CustomOption.Murderer", "CustomOption.Murderer1", "RoleList.Murderer", "Layer.Murderer" ],
     "values":
     [
       {
@@ -3428,7 +3428,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.SerialKiller", "CustomOption.SerialKiller1", "RoleList.SerialKiller" ],
+    "ids": [ "CustomOption.SerialKiller", "CustomOption.SerialKiller1", "RoleList.SerialKiller", "Layer.SerialKiller" ],
     "values":
     [
       {
@@ -3442,7 +3442,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Werewolf", "CustomOption.Werewolf1", "RoleList.Werewolf" ],
+    "ids": [ "CustomOption.Werewolf", "CustomOption.Werewolf1", "RoleList.Werewolf", "Layer.Werewolf" ],
     "values":
     [
       {
@@ -3470,7 +3470,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Dracula", "CustomOption.Dracula1", "RoleList.Dracula" ],
+    "ids": [ "CustomOption.Dracula", "CustomOption.Dracula1", "RoleList.Dracula", "Layer.Dracula" ],
     "values":
     [
       {
@@ -3484,7 +3484,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Necromancer", "CustomOption.Necromancer1", "RoleList.Necromancer" ],
+    "ids": [ "CustomOption.Necromancer", "CustomOption.Necromancer1", "RoleList.Necromancer", "Layer.Necromancer" ],
     "values":
     [
       {
@@ -3498,7 +3498,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Whisperer", "CustomOption.Whisperer1", "RoleList.Whisperer" ],
+    "ids": [ "CustomOption.Whisperer", "CustomOption.Whisperer1", "RoleList.Whisperer", "Layer.Whisperer" ],
     "values":
     [
       {
@@ -3512,7 +3512,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Jackal", "CustomOption.Jackal1", "RoleList.Jackal" ],
+    "ids": [ "CustomOption.Jackal", "CustomOption.Jackal1", "RoleList.Jackal", "Layer.Jackal" ],
     "values":
     [
       {
@@ -3540,7 +3540,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Betrayer", "CustomOption.Betrayer1" ],
+    "ids": [ "CustomOption.Betrayer", "CustomOption.Betrayer1", "Layer.Betrayer" ],
     "values":
     [
       {
@@ -3550,7 +3550,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Phantom", "CustomOption.Phantom1" ],
+    "ids": [ "CustomOption.Phantom", "CustomOption.Phantom1", "Layer.Phantom" ],
     "values":
     [
       {
@@ -3578,7 +3578,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Blackmailer", "CustomOption.Blackmailer1", "RoleList.Blackmailer" ],
+    "ids": [ "CustomOption.Blackmailer", "CustomOption.Blackmailer1", "RoleList.Blackmailer", "Layer.Blackmailer" ],
     "values":
     [
       {
@@ -3592,7 +3592,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Camouflager", "CustomOption.Camouflager1", "RoleList.Camouflager" ],
+    "ids": [ "CustomOption.Camouflager", "CustomOption.Camouflager1", "RoleList.Camouflager", "Layer.Camouflager" ],
     "values":
     [
       {
@@ -3606,7 +3606,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Grenadier", "CustomOption.Grenadier1", "RoleList.Grenadier" ],
+    "ids": [ "CustomOption.Grenadier", "CustomOption.Grenadier1", "RoleList.Grenadier", "Layer.Grenadier" ],
     "values":
     [
       {
@@ -3620,7 +3620,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Janitor", "CustomOption.Janitor1", "RoleList.Janitor" ],
+    "ids": [ "CustomOption.Janitor", "CustomOption.Janitor1", "RoleList.Janitor", "Layer.Janitor" ],
     "values":
     [
       {
@@ -3648,7 +3648,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Disguiser", "CustomOption.Disguiser1", "RoleList.Disguiser" ],
+    "ids": [ "CustomOption.Disguiser", "CustomOption.Disguiser1", "RoleList.Disguiser", "Layer.Disguiser" ],
     "values":
     [
       {
@@ -3662,7 +3662,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Morphling", "CustomOption.Morphling1", "RoleList.Morphling" ],
+    "ids": [ "CustomOption.Morphling", "CustomOption.Morphling1", "RoleList.Morphling", "Layer.Morphling" ],
     "values":
     [
       {
@@ -3676,7 +3676,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Wraith", "CustomOption.Wraith1", "RoleList.Wraith" ],
+    "ids": [ "CustomOption.Wraith", "CustomOption.Wraith1", "RoleList.Wraith", "Layer.Wraith" ],
     "values":
     [
       {
@@ -3704,7 +3704,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Ambusher", "CustomOption.Ambusher1", "RoleList.Ambusher" ],
+    "ids": [ "CustomOption.Ambusher", "CustomOption.Ambusher1", "RoleList.Ambusher", "Layer.Ambusher" ],
     "values":
     [
       {
@@ -3718,7 +3718,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Enforcer", "CustomOption.Enforcer1", "RoleList.Enforcer" ],
+    "ids": [ "CustomOption.Enforcer", "CustomOption.Enforcer1", "RoleList.Enforcer", "Layer.Enforcer" ],
     "values":
     [
       {
@@ -3756,7 +3756,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Consigliere", "CustomOption.Consigliere1", "RoleList.Consigliere" ],
+    "ids": [ "CustomOption.Consigliere", "CustomOption.Consigliere1", "RoleList.Consigliere", "Layer.Consigliere" ],
     "values":
     [
       {
@@ -3770,7 +3770,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Godfather", "CustomOption.Godfather1", "RoleList.Godfather" ],
+    "ids": [ "CustomOption.Godfather", "CustomOption.Godfather1", "RoleList.Godfather", "Layer.Godfather", "Layer.PromotedGodfather" ],
     "values":
     [
       {
@@ -3784,7 +3784,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Consort", "CustomOption.Consort1", "RoleList.Consort" ],
+    "ids": [ "CustomOption.Consort", "CustomOption.Consort1", "RoleList.Consort", "Layer.Consort" ],
     "values":
     [
       {
@@ -3798,7 +3798,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Miner", "CustomOption.Miner1", "RoleList.Miner" ],
+    "ids": [ "CustomOption.Miner", "CustomOption.Miner1", "RoleList.Miner", "Layer.Miner" ],
     "values":
     [
       {
@@ -3812,7 +3812,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Teleporter", "CustomOption.Teleporter1", "RoleList.Teleporter" ],
+    "ids": [ "CustomOption.Teleporter", "CustomOption.Teleporter1", "RoleList.Teleporter", "Layer.Teleporter" ],
     "values":
     [
       {
@@ -3840,7 +3840,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Ghoul", "CustomOption.Ghoul1" ],
+    "ids": [ "CustomOption.Ghoul", "CustomOption.Ghoul1", "Layer.Ghoul" ],
     "values":
     [
       {
@@ -3854,7 +3854,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Impostor", "RoleList.Impostor" ],
+    "ids": [ "CustomOption.Impostor", "RoleList.Impostor", "Layer.Impostor" ],
     "values":
     [
       {
@@ -3882,7 +3882,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Concealer", "CustomOption.Concealer1", "RoleList.Concealer" ],
+    "ids": [ "CustomOption.Concealer", "CustomOption.Concealer1", "RoleList.Concealer", "Layer.Concealer" ],
     "values":
     [
       {
@@ -3896,7 +3896,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Drunkard", "CustomOption.Drunkard1", "RoleList.Drunkard" ],
+    "ids": [ "CustomOption.Drunkard", "CustomOption.Drunkard1", "RoleList.Drunkard", "Layer.Drunkard" ],
     "values":
     [
       {
@@ -3910,7 +3910,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Framer", "CustomOption.Framer1", "RoleList.Framer" ],
+    "ids": [ "CustomOption.Framer", "CustomOption.Framer1", "RoleList.Framer", "Layer.Framer" ],
     "values":
     [
       {
@@ -3924,7 +3924,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Shapeshifter", "CustomOption.Shapeshifter1", "RoleList.Shapeshifter" ],
+    "ids": [ "CustomOption.Shapeshifter", "CustomOption.Shapeshifter1", "RoleList.Shapeshifter", "Layer.Shapeshifter" ],
     "values":
     [
       {
@@ -3938,7 +3938,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Silencer", "CustomOption.Silencer1", "RoleList.Silencer" ],
+    "ids": [ "CustomOption.Silencer", "CustomOption.Silencer1", "RoleList.Silencer", "Layer.Silencer" ],
     "values":
     [
       {
@@ -3966,7 +3966,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Bomber", "CustomOption.Bomber1", "RoleList.Bomber" ],
+    "ids": [ "CustomOption.Bomber", "CustomOption.Bomber1", "RoleList.Bomber", "Layer.Bomber" ],
     "values":
     [
       {
@@ -3980,7 +3980,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Crusader", "CustomOption.Crusader1", "RoleList.Crusader" ],
+    "ids": [ "CustomOption.Crusader", "CustomOption.Crusader1", "RoleList.Crusader", "Layer.Crusader" ],
     "values":
     [
       {
@@ -3994,7 +3994,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Collider", "CustomOption.Collider1", "RoleList.Collider" ],
+    "ids": [ "CustomOption.Collider", "CustomOption.Collider1", "RoleList.Collider", "Layer.Collider" ],
     "values":
     [
       {
@@ -4008,7 +4008,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Poisoner", "CustomOption.Poisoner1", "RoleList.Poisoner" ],
+    "ids": [ "CustomOption.Poisoner", "CustomOption.Poisoner1", "RoleList.Poisoner", "Layer.Poisoner" ],
     "values":
     [
       {
@@ -4036,7 +4036,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Rebel", "CustomOption.Rebel1", "RoleList.Rebel" ],
+    "ids": [ "CustomOption.Rebel", "CustomOption.Rebel1", "RoleList.Rebel", "Layer.Rebel", "Layer.PromotedRebel" ],
     "values":
     [
       {
@@ -4050,7 +4050,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Stalker", "CustomOption.Stalker1", "RoleList.Stalker" ],
+    "ids": [ "CustomOption.Stalker", "CustomOption.Stalker1", "RoleList.Stalker", "Layer.Stalker" ],
     "values":
     [
       {
@@ -4064,7 +4064,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Warper", "CustomOption.Warper1", "RoleList.Warper" ],
+    "ids": [ "CustomOption.Warper", "CustomOption.Warper1", "RoleList.Warper", "Layer.Warper" ],
     "values":
     [
       {
@@ -4092,7 +4092,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Banshee", "CustomOption.Banshee1" ],
+    "ids": [ "CustomOption.Banshee", "CustomOption.Banshee1", "Layer.Banshee" ],
     "values":
     [
       {
@@ -4106,7 +4106,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Anarchist", "RoleList.Anarchist" ],
+    "ids": [ "CustomOption.Anarchist", "RoleList.Anarchist", "Layer.Anarchist" ],
     "values":
     [
       {
@@ -4134,7 +4134,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Spellslinger", "CustomOption.Spellslinger1", "RoleList.Spellslinger" ],
+    "ids": [ "CustomOption.Spellslinger", "CustomOption.Spellslinger1", "RoleList.Spellslinger", "Layer.Spellslinger" ],
     "values":
     [
       {
@@ -4148,7 +4148,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Timekeeper", "CustomOption.Timekeeper1", "RoleList.Timekeeper" ],
+    "ids": [ "CustomOption.Timekeeper", "CustomOption.Timekeeper1", "RoleList.Timekeeper", "Layer.TimeKeeper" ],
     "values":
     [
       {
@@ -4176,7 +4176,7 @@
     ]
   },
   {
-    "id": "CustomOption.Astral",
+    "ids": [ "CustomOption.Astral", "Layer.Astral" ],
     "values":
     [
       {
@@ -4190,7 +4190,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Bait", "CustomOption.Bait1" ],
+    "ids": [ "CustomOption.Bait", "CustomOption.Bait1", "Layer.Bait" ],
     "values":
     [
       {
@@ -4204,7 +4204,7 @@
     ]
   },
   {
-    "id": "CustomOption.Colorblind",
+    "ids": [ "CustomOption.Colorblind", "Layer.Colorblind" ],
     "values":
     [
       {
@@ -4214,7 +4214,7 @@
     ]
   },
   {
-    "id": "CustomOption.Coward",
+    "ids": [ "CustomOption.Coward", "Layer.Coward" ],
     "values":
     [
       {
@@ -4228,7 +4228,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Diseased", "CustomOption.Diseased1" ],
+    "ids": [ "CustomOption.Diseased", "CustomOption.Diseased1", "Layer.Diseased" ],
     "values":
     [
       {
@@ -4242,7 +4242,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Drunk", "CustomOption.Drunk1" ],
+    "ids": [ "CustomOption.Drunk", "CustomOption.Drunk1", "Layer.Drunk" ],
     "values":
     [
       {
@@ -4256,7 +4256,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Dwarf", "CustomOption.Dwarf1" ],
+    "ids": [ "CustomOption.Dwarf", "CustomOption.Dwarf1", "Layer.Dwarf" ],
     "values":
     [
       {
@@ -4270,7 +4270,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Giant", "CustomOption.Giant1" ],
+    "ids": [ "CustomOption.Giant", "CustomOption.Giant1", "Layer.Giant" ],
     "values":
     [
       {
@@ -4284,7 +4284,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Indomitable", "CustomOption.Indomitable1" ],
+    "ids": [ "CustomOption.Indomitable", "CustomOption.Indomitable1", "Layer.Indomitable" ],
     "values":
     [
       {
@@ -4298,7 +4298,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Professional", "CustomOption.Professional1" ],
+    "ids": [ "CustomOption.Professional", "CustomOption.Professional1", "Layer.Professional" ],
     "values":
     [
       {
@@ -4312,7 +4312,7 @@
     ]
   },
   {
-    "id": "CustomOption.Shy",
+    "ids": [ "CustomOption.Shy", "Layer.Shy" ],
     "values":
     [
       {
@@ -4326,7 +4326,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.VIP", "CustomOption.VIP1" ],
+    "ids": [ "CustomOption.VIP", "CustomOption.VIP1", "Layer.VIP" ],
     "values":
     [
       {
@@ -4340,7 +4340,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Volatile", "CustomOption.Volatile1" ],
+    "ids": [ "CustomOption.Volatile", "CustomOption.Volatile1", "Layer.Volatile" ],
     "values":
     [
       {
@@ -4354,7 +4354,7 @@
     ]
   },
   {
-    "id": "CustomOption.Yeller",
+    "ids": [ "CustomOption.Yeller", "Layer.Yeller" ],
     "values":
     [
       {
@@ -4378,7 +4378,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Allied", "CustomOption.Allied1" ],
+    "ids": [ "CustomOption.Allied", "CustomOption.Allied1", "Layer.Allied" ],
     "values":
     [
       {
@@ -4392,7 +4392,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Corrupted", "CustomOption.Corrupted1" ],
+    "ids": [ "CustomOption.Corrupted", "CustomOption.Corrupted1", "Layer.Corrupted" ],
     "values":
     [
       {
@@ -4406,7 +4406,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Defector", "CustomOption.Defector1" ],
+    "ids": [ "CustomOption.Defector", "CustomOption.Defector1", "Layer.Defector" ],
     "values":
     [
       {
@@ -4420,7 +4420,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Fanatic", "CustomOption.Fanatic1" ],
+    "ids": [ "CustomOption.Fanatic", "CustomOption.Fanatic1", "Layer.Fanatic" ],
     "values":
     [
       {
@@ -4434,7 +4434,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Linked", "CustomOption.Linked1" ],
+    "ids": [ "CustomOption.Linked", "CustomOption.Linked1", "Layer.Linked" ],
     "values":
     [
       {
@@ -4448,7 +4448,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Lovers", "CustomOption.Lovers1" ],
+    "ids": [ "CustomOption.Lovers", "CustomOption.Lovers1", "Layer.Lovers" ],
     "values":
     [
       {
@@ -4462,7 +4462,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Mafia", "CustomOption.Mafia1" ],
+    "ids": [ "CustomOption.Mafia", "CustomOption.Mafia1", "Layer.Mafia" ],
     "values":
     [
       {
@@ -4476,7 +4476,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Overlord", "CustomOption.Overlord1" ],
+    "ids": [ "CustomOption.Overlord", "CustomOption.Overlord1", "Layer.Overlord" ],
     "values":
     [
       {
@@ -4490,7 +4490,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Rivals", "CustomOption.Rivals1" ],
+    "ids": [ "CustomOption.Rivals", "CustomOption.Rivals1", "Layer.Rivals" ],
     "values":
     [
       {
@@ -4504,7 +4504,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Taskmaster", "CustomOption.Taskmaster1" ],
+    "ids": [ "CustomOption.Taskmaster", "CustomOption.Taskmaster1", "Layer.Taskmaster" ],
     "values":
     [
       {
@@ -4518,7 +4518,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Traitor", "CustomOption.Traitor1" ],
+    "ids": [ "CustomOption.Traitor", "CustomOption.Traitor1", "Layer.Traitor" ],
     "values":
     [
       {
@@ -4546,7 +4546,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Assassin", "CustomOption.Assassin1" ],
+    "ids": [ "CustomOption.Assassin", "CustomOption.Assassin1", "Layer.Assassin" ],
     "values":
     [
       {
@@ -4560,7 +4560,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.ButtonBarry", "CustomOption.ButtonBarry1" ],
+    "ids": [ "CustomOption.ButtonBarry", "CustomOption.ButtonBarry1", "Layer.ButtonBarry" ],
     "values":
     [
       {
@@ -4574,7 +4574,7 @@
     ]
   },
   {
-    "id": "CustomOption.Bullseye",
+    "ids": [ "CustomOption.Bullseye", "Layer.Bullseye" ],
     "values":
     [
       {
@@ -4584,7 +4584,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Insider", "CustomOption.Insider1" ],
+    "ids": [ "CustomOption.Insider", "CustomOption.Insider1", "Layer.Insider" ],
     "values":
     [
       {
@@ -4598,7 +4598,7 @@
     ]
   },
   {
-    "id": "CustomOption.Hitman",
+    "ids": [ "CustomOption.Hitman", "Layer.Hitman" ],
     "values":
     [
       {
@@ -4608,7 +4608,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Multitasker", "CustomOption.Multitasker1" ],
+    "ids": [ "CustomOption.Multitasker", "CustomOption.Multitasker1", "Layer.Multitasker" ],
     "values":
     [
       {
@@ -4622,7 +4622,7 @@
     ]
   },
   {
-    "id": "CustomOption.Slayer",
+    "ids": [ "CustomOption.Slayer", "Layer.Slayer" ],
     "values":
     [
       {
@@ -4632,7 +4632,7 @@
     ]
   },
   {
-    "id": "CustomOption.Ninja",
+    "ids": [ "CustomOption.Ninja", "Layer.Ninja" ],
     "values":
     [
       {
@@ -4660,7 +4660,7 @@
     ]
   },
   {
-    "id": "CustomOption.Radar",
+    "ids": [ "CustomOption.Radar", "Layer.Radar" ],
     "values":
     [
       {
@@ -4674,7 +4674,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Ruthless", "CustomOption.Ruthless1" ],
+    "ids": [ "CustomOption.Ruthless", "CustomOption.Ruthless1", "Layer.Ruthless" ],
     "values":
     [
       {
@@ -4688,7 +4688,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Snitch", "CustomOption.Snitch1" ],
+    "ids": [ "CustomOption.Snitch", "CustomOption.Snitch1", "Layer.Snitch" ],
     "values":
     [
       {
@@ -4702,7 +4702,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Swapper", "CustomOption.Swapper1" ],
+    "ids": [ "CustomOption.Swapper", "CustomOption.Swapper1", "Layer.Swapper" ],
     "values":
     [
       {
@@ -4716,7 +4716,7 @@
     ]
   },
   {
-    "id": "CustomOption.Sniper",
+    "ids": [ "CustomOption.Sniper", "Layer.Sniper" ],
     "values":
     [
       {
@@ -4726,7 +4726,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Tiebreaker", "CustomOption.Tiebreaker1" ],
+    "ids": [ "CustomOption.Tiebreaker", "CustomOption.Tiebreaker1", "Layer.Tiebreaker" ],
     "values":
     [
       {
@@ -4740,7 +4740,7 @@
     ]
   },
   {
-    "id": "CustomOption.Torch",
+    "ids": [ "CustomOption.Torch", "Layer.Torch" ],
     "values":
     [
       {
@@ -4754,7 +4754,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Underdog", "CustomOption.Underdog1" ],
+    "ids": [ "CustomOption.Underdog", "CustomOption.Underdog1", "Layer.Underdog" ],
     "values":
     [
       {
@@ -4768,7 +4768,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Tunneler", "CustomOption.Tunneler1" ],
+    "ids": [ "CustomOption.Tunneler", "CustomOption.Tunneler1", "Layer.Tunneler" ],
     "values":
     [
       {
@@ -4778,6 +4778,156 @@
       {
         "name": "SChinese",
         "value": "隧道工"
+      }
+    ]
+  },
+  {
+    "id": "Layer.Runner",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Runner"
+      }
+    ]
+  },
+  {
+    "id": "Layer.Hunter",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Hunter"
+      }
+    ]
+  },
+  {
+    "id": "Layer.Hunted",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Hunted"
+      }
+    ]
+  },
+  {
+    "id": "Layer.Mafioso",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Mafioso"
+      }
+    ]
+  },
+  {
+    "id": "Layer.Sidekick",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Sidekick"
+      }
+    ]
+  },
+  {
+    "id": "Layer.Cabal",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Cabal"
+      }
+    ]
+  },
+  {
+    "id": "Layer.Sect",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Sect"
+      }
+    ]
+  },
+  {
+    "id": "Layer.Reanimated",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Reanimated"
+      }
+    ]
+  },
+  {
+    "id": "Layer.Undead",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Undead"
+      }
+    ]
+  },
+  {
+    "id": "Layer.Herbalist",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Herbalist"
+      }
+    ]
+  },
+  {
+    "id": "Layer.Useless",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Useless"
+      }
+    ]
+  },
+  {
+    "id": "Layer.Gremlin",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Gremlin"
+      }
+    ]
+  },
+  {
+    "id": "Layer.Flash",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Flash"
+      }
+    ]
+  },
+  {
+    "id": "Layer.Chonker",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Chonker"
+      }
+    ]
+  },
+  {
+    "id": "Layer.Sloth",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Sloth"
       }
     ]
   },
@@ -5665,7 +5815,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.AltManaGainedPerBody", "CustomOption.NceroManaGainedPerBody" ],
+    "ids": [ "CustomOption.AltManaGainedPerBody", "CustomOption.NecroManaGainedPerBody" ],
     "values":
     [
       {
@@ -10337,7 +10487,7 @@
     ]
   },
   {
-    "id": "RoleList.None",
+    "ids": [ "RoleList.None", "Layer.NoneModifier", "Layer.NoneDisposition", "Layer.NoneAbility", "Layer.NonRole" ],
     "values":
     [
       {
@@ -10911,1382 +11061,12 @@
     ]
   },
   {
-    "id": "LayerWins.Altruist",
+    "id": "Stats.LayerWins",
     "values":
     [
       {
         "name": "English",
-        "value": "Games Won as Altruist:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Bastion",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Bastion:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Chameleon",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Chameleon:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Coroner",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Coroner:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Crewmate",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Crewmate:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Detective",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Detective:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Dictator",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Dictator:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Engineer",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Engineer:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Escort",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Escort:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Mayor",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Mayor:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Medic",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Medic:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Medium",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Medium:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Monarch",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Monarch:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Mystic",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Mystic:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Operative",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Operative:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Retributionist",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Retributionist:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Revealer",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Revealer:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Seer",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Seer:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Sheriff",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Sheriff:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Shifter",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Shifter:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Tracker",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Tracker:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Transporter",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Transporter:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Trapper",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Trapper:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.VampireHunter",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as VampireHunter:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Veteran",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Veteran:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Vigilante",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Vigilante:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Actor",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Actor:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Amnesiac",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Amnesiac:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Arsonist",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Arsonist:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Betrayer",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Betrayer:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.BountyHunter",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as BountyHunter:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Cannibal",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Cannibal:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Cryomaniac",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Cryomaniac:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Dracula",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Dracula:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Executioner",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Executioner:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Glitch",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Glitch:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.GuardianAngel",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as GuardianAngel:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Guesser",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Guesser:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Jackal",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Jackal:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Jester",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Jester:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Juggernaut",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Juggernaut:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Murderer",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Murderer:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Necromancer",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Necromancer:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Pestilence",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Pestilence:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Phantom",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Phantom:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Plaguebearer",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Plaguebearer:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.SerialKiller",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as SerialKiller:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Survivor",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Survivor:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Thief",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Thief:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Troll",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Troll:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Werewolf",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Werewolf:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Whisperer",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Whisperer:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Ambusher",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Ambusher:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Blackmailer",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Blackmailer:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Camouflager",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Camouflager:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Consigliere",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Consigliere:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Consort",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Consort:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Disguiser",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Disguiser:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Enforcer",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Enforcer:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Ghoul",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Ghoul:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Godfather",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Godfather:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Grenadier",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Grenadier:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Impostor",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Impostor:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Janitor",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Janitor:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Mafioso",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Mafioso:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Miner",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Miner:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Morphling",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Morphling:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.PromotedGodfather",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as PromotedGodfather:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Teleporter",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Teleporter:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Wraith",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Wraith:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Anarchist",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Anarchist:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Banshee",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Banshee:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Bomber",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Bomber:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Collider",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Collider:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Concealer",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Concealer:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Crusader",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Crusader:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Drunkard",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Drunkard:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Framer",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Framer:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Poisoner",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Poisoner:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.PromotedRebel",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as PromotedRebel:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Rebel",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Rebel:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Shapeshifter",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Shapeshifter:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Sidekick",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Sidekick:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Silencer",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Silencer:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Spellslinger",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Spellslinger:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Stalker",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Stalker:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Timekeeper",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Timekeeper:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Warper",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Warper:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Hunter",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Hunter:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Hunted",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Hunted:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Runner",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Runner:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Astral",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Astral:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Bait",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Bait:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Colorblind",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Colorblind:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Coward",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Coward:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Diseased",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Diseased:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Drunk",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Drunk:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Dwarf",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Dwarf:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Giant",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Giant:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Indomitable",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Indomitable:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Professional",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Professional:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Shy",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Shy:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.VIP",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as VIP:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Volatile",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Volatile:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Yeller",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Yeller:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Allied",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Allied:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Corrupted",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Corrupted:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Defector",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Defector:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Fanatic",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Fanatic:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Linked",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Linked:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Lovers",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Lovers:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Mafia",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Mafia:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Overlord",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Overlord:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Rivals",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Rivals:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Taskmaster",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Taskmaster:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Traitor",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Traitor:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Assassin",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Assassin:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Bullseye",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Bullseye:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.ButtonBarry",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as ButtonBarry:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Hitman",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Hitman:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Insider",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Insider:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Multitasker",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Multitasker:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Ninja",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Ninja:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Politician",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Politician:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Radar",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Radar:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Ruthless",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Ruthless:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Slayer",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Slayer:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Sniper",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Sniper:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Snitch",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Snitch:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Swapper",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Swapper:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Tiebreaker",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Tiebreaker:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Torch",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Torch:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Tunneler",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Tunneler:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Underdog",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Underdog:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Undead",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Undead:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Sect",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Sect:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Cabal",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Cabal:"
-      }
-    ]
-  },
-  {
-    "id": "LayerWins.Reanimated",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won as Reanimated:"
+        "value": "Games Won as %layer%:"
       }
     ]
   },
@@ -12561,12 +11341,12 @@
     ]
   },
   {
-    "id": "Achievement.LayerWins.Altruist.Description",
+    "id": "Achievement.LayerWins.Description",
     "values":
     [
       {
         "name": "English",
-        "value": "Win 5 games as Altruist"
+        "value": "Win 5 games as %layer%"
       }
     ]
   },
