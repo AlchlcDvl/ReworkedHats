@@ -4148,7 +4148,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Timekeeper", "CustomOption.Timekeeper1", "RoleList.Timekeeper", "Layer.TimeKeeper" ],
+    "ids": [ "CustomOption.Timekeeper", "CustomOption.Timekeeper1", "RoleList.Timekeeper", "Layer.Timekeeper" ],
     "values":
     [
       {
@@ -4646,7 +4646,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Politician", "CustomOption.Politician1" ],
+    "ids": [ "CustomOption.Politician", "CustomOption.Politician1", "Layer.Politician" ],
     "values":
     [
       {
