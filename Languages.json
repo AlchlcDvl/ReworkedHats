@@ -11071,82 +11071,12 @@
     ]
   },
   {
-    "id": "MapWins.Skeld",
+    "id": "Stats.MapWins",
     "values":
     [
       {
         "name": "English",
-        "value": "Games Won on Skeld:"
-      }
-    ]
-  },
-  {
-    "id": "MapWins.MiraHQ",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won on Mira HQ:"
-      }
-    ]
-  },
-  {
-    "id": "MapWins.Polus",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won on Polus:"
-      }
-    ]
-  },
-  {
-    "id": "MapWins.Airship",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won on Airship:"
-      }
-    ]
-  },
-  {
-    "id": "MapWins.Fungle",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won on Fungle:"
-      }
-    ]
-  },
-  {
-    "id": "MapWins.Submerged",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won on Submerged:"
-      }
-    ]
-  },
-  {
-    "id": "MapWins.LevelImpostor",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won on Level Impostor:"
-      }
-    ]
-  },
-  {
-    "id": "MapWins.dlekS",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Games Won on dlekS:"
+        "value": "Games Won on %map%:"
       }
     ]
   },
@@ -11387,6 +11317,86 @@
       {
         "name": "English",
         "value": "Achievements"
+      }
+    ]
+  },
+  {
+    "id": "Map.Skeld",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Skeld"
+      }
+    ]
+  },
+  {
+    "id": "Map.MiraHQ",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Mira HQ"
+      }
+    ]
+  },
+  {
+    "id": "Map.Polus",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Polus"
+      }
+    ]
+  },
+  {
+    "id": "Map.dlekS",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "dlekS"
+      }
+    ]
+  },
+  {
+    "id": "Map.Airship",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Airship"
+      }
+    ]
+  },
+  {
+    "id": "Map.Submerged",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Submerged"
+      }
+    ]
+  },
+  {
+    "id": "Map.Fungle",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Fungle"
+      }
+    ]
+  },
+  {
+    "id": "Map.LevelImpostor",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Level Impostor"
       }
     ]
   }
