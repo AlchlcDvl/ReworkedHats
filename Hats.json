@@ -2174,6 +2174,26 @@
     "artist": "Miauka"
   },
   {
+    "id": "bomba1",
+    "name": "Tytus Bomba",
+    "artist": "Bartosz Walaszek"
+  },
+  {
+    "id": "bomba2",
+    "name": "Trener HWDU",
+    "artist": "Bartosz Walaszek"
+  },
+  {
+    "id": "bomba3",
+    "name": "Kurwinox",
+    "artist": "Bartosz Walaszek"
+  },
+  {
+    "id": "bomba4",
+    "name": "reg Lepkie Rączki",
+    "artist": "Bartosz Walaszek"
+  },
+  {
     "id": "standard0031",
     "name": "bird"
   }

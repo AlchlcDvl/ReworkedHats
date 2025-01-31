@@ -1017,7 +1017,7 @@
     [
       {
         "name": "English",
-        "value": "Body Report Distance"
+        "value": "Max Report Distance"
       }
     ]
   },
@@ -2660,21 +2660,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.CrewAuditorRoles", "CustomOption.CrewAuditorSettings" ],
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "<#8CFFFFFF>Crew</color> <#1D7CF2FF>Auditor</color> <#FFD700FF>Roles</color>"
-      },
-      {
-        "name": "SChinese",
-        "value": "<#1D7CF2FF>审判型</color><#8CFFFFFF>船员</color><#FFD700FF>职业</color>"
-      }
-    ]
-  },
-  {
-    "ids": [ "CustomOption.Mystic", "CustomOption.Mystic1", "RoleList.Mystic", "Layer.Mystic" ],
+    "ids": [ "CustomOption.Mystic", "CustomOption.Mystic1", "List.Mystic", "Layer.Mystic" ],
     "values":
     [
       {
@@ -2684,20 +2670,6 @@
       {
         "name": "SChinese",
         "value": "祭司"
-      }
-    ]
-  },
-  {
-    "ids": [ "CustomOption.VampireHunter", "CustomOption.VampireHunter1", "RoleList.VampireHunter", "Layer.VampireHunter" ],
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Vampire Hunter"
-      },
-      {
-        "name": "SChinese",
-        "value": "猎魔人"
       }
     ]
   },
@@ -2716,7 +2688,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Coroner", "CustomOption.Coroner1", "RoleList.Coroner", "Layer.Coroner" ],
+    "ids": [ "CustomOption.Coroner", "CustomOption.Coroner1", "List.Coroner", "Layer.Coroner" ],
     "values":
     [
       {
@@ -2730,7 +2702,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Detective", "CustomOption.Detective1", "RoleList.Detective", "Layer.Detective" ],
+    "ids": [ "CustomOption.Detective", "CustomOption.Detective1", "List.Detective", "Layer.Detective" ],
     "values":
     [
       {
@@ -2744,7 +2716,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Medium", "CustomOption.Medium1", "RoleList.Medium", "Layer.Medium" ],
+    "ids": [ "CustomOption.Medium", "CustomOption.Medium1", "List.Medium", "Layer.Medium" ],
     "values":
     [
       {
@@ -2758,7 +2730,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Operative", "CustomOption.AdminDeadPlayers.Operative", "CustomOption.Operative1", "RoleList.Operative", "Layer.Operative" ],
+    "ids": [ "CustomOption.Operative", "CustomOption.AdminDeadPlayers.Operative", "CustomOption.Operative1", "List.Operative", "Layer.Operative" ],
     "values":
     [
       {
@@ -2772,7 +2744,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Seer", "CustomOption.Seer1", "RoleList.Seer", "Layer.Seer" ],
+    "ids": [ "CustomOption.Seer", "CustomOption.Seer1", "List.Seer", "Layer.Seer" ],
     "values":
     [
       {
@@ -2786,7 +2758,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Sheriff", "CustomOption.Sheriff1", "RoleList.Sheriff", "Layer.Sheriff" ],
+    "ids": [ "CustomOption.Sheriff", "CustomOption.Sheriff1", "List.Sheriff", "Layer.Sheriff" ],
     "values":
     [
       {
@@ -2800,7 +2772,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Tracker", "CustomOption.Tracker1", "RoleList.Tracker", "Layer.Tracker" ],
+    "ids": [ "CustomOption.Tracker", "CustomOption.Tracker1", "List.Tracker", "Layer.Tracker" ],
     "values":
     [
       {
@@ -2828,7 +2800,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Bastion", "CustomOption.Bastion1", "RoleList.Bastion", "Layer.Bastion" ],
+    "ids": [ "CustomOption.Bastion", "CustomOption.Bastion1", "List.Bastion", "Layer.Bastion" ],
     "values":
     [
       {
@@ -2838,7 +2810,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Vigilante", "CustomOption.Vigilante1", "RoleList.Vigilante", "Layer.Vigilante" ],
+    "ids": [ "CustomOption.Vigilante", "CustomOption.Vigilante1", "List.Vigilante", "Layer.Vigilante" ],
     "values":
     [
       {
@@ -2852,7 +2824,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Veteran", "CustomOption.Veteran1", "RoleList.Veteran", "Layer.Veteran" ],
+    "ids": [ "CustomOption.Veteran", "CustomOption.Veteran1", "List.Veteran", "Layer.Veteran" ],
     "values":
     [
       {
@@ -2880,7 +2852,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Altruist", "CustomOption.Altruist1", "RoleList.Altruist", "Layer.Altruist" ],
+    "ids": [ "CustomOption.Altruist", "CustomOption.Altruist1", "List.Altruist", "Layer.Altruist" ],
     "values":
     [
       {
@@ -2894,7 +2866,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Medic", "CustomOption.ShieldOptions.Medic", "CustomOption.Medic1", "RoleList.Medic", "Layer.Medic" ],
+    "ids": [ "CustomOption.Medic", "CustomOption.ShieldOptions.Medic", "CustomOption.Medic1", "List.Medic", "Layer.Medic" ],
     "values":
     [
       {
@@ -2908,7 +2880,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Trapper", "CustomOption.Trapper1", "RoleList.Trapper", "Layer.Trapper" ],
+    "ids": [ "CustomOption.Trapper", "CustomOption.Trapper1", "List.Trapper", "Layer.Trapper" ],
     "values":
     [
       {
@@ -2932,7 +2904,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Mayor", "CustomOption.Mayor1", "RoleList.Mayor", "Layer.Mayor" ],
+    "ids": [ "CustomOption.Mayor", "CustomOption.Mayor1", "List.Mayor", "Layer.Mayor" ],
     "values":
     [
       {
@@ -2946,7 +2918,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Monarch", "CustomOption.Monarch1", "RoleList.Monarch", "Layer.Monarch" ],
+    "ids": [ "CustomOption.Monarch", "CustomOption.Monarch1", "List.Monarch", "Layer.Monarch" ],
     "values":
     [
       {
@@ -2960,7 +2932,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Dictator", "CustomOption.Dictator1", "RoleList.Dictator", "Layer.Dictator" ],
+    "ids": [ "CustomOption.Dictator", "CustomOption.Dictator1", "List.Dictator", "Layer.Dictator" ],
     "values":
     [
       {
@@ -2988,7 +2960,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Chameleon", "CustomOption.Chameleon1", "RoleList.Chameleon", "Layer.Chameleon" ],
+    "ids": [ "CustomOption.Chameleon", "CustomOption.Chameleon1", "List.Chameleon", "Layer.Chameleon" ],
     "values":
     [
       {
@@ -3002,7 +2974,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Escort", "CustomOption.Escort1", "RoleList.Escort", "Layer.Escort" ],
+    "ids": [ "CustomOption.Escort", "CustomOption.Escort1", "List.Escort", "Layer.Escort" ],
     "values":
     [
       {
@@ -3016,7 +2988,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Engineer", "CustomOption.Engineer1", "RoleList.Engineer", "Layer.Engineer" ],
+    "ids": [ "CustomOption.Engineer", "CustomOption.Engineer1", "List.Engineer", "Layer.Engineer" ],
     "values":
     [
       {
@@ -3030,7 +3002,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Retributionist", "CustomOption.Retributionist1", "RoleList.Retributionist", "Layer.Retributionist" ],
+    "ids": [ "CustomOption.Retributionist", "CustomOption.Retributionist1", "List.Retributionist", "Layer.Retributionist" ],
     "values":
     [
       {
@@ -3044,7 +3016,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Shifter", "CustomOption.BecomeEnum.Shifter", "CustomOption.Shifter1", "RoleList.Shifter", "Layer.Shifter" ],
+    "ids": [ "CustomOption.Shifter", "CustomOption.BecomeEnum.Shifter", "CustomOption.Shifter1", "List.Shifter", "Layer.Shifter" ],
     "values":
     [
       {
@@ -3058,7 +3030,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Transporter", "CustomOption.Transporter1", "RoleList.Transporter", "Layer.Transporter" ],
+    "ids": [ "CustomOption.Transporter", "CustomOption.Transporter1", "List.Transporter", "Layer.Transporter" ],
     "values":
     [
       {
@@ -3086,7 +3058,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Revealer", "CustomOption.Revealer1", "RoleList.Revealer", "Layer.Revealer" ],
+    "ids": [ "CustomOption.Revealer", "CustomOption.Revealer1", "List.Revealer", "Layer.Revealer" ],
     "values":
     [
       {
@@ -3100,7 +3072,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Crewmate", "CustomOption.BecomeEnum.Crewmate", "RoleList.Crewmate", "Layer.Crewmate" ],
+    "ids": [ "CustomOption.Crewmate", "CustomOption.BecomeEnum.Crewmate", "List.Crewmate", "Layer.Crewmate" ],
     "values":
     [
       {
@@ -3128,7 +3100,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Amnesiac", "CustomOption.Amnesiac1", "RoleList.Amnesiac", "Layer.Amnesiac" ],
+    "ids": [ "CustomOption.Amnesiac", "CustomOption.Amnesiac1", "List.Amnesiac", "Layer.Amnesiac" ],
     "values":
     [
       {
@@ -3142,7 +3114,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.GuardianAngel", "CustomOption.ProtectOptions.GA", "CustomOption.GuardianAngel1", "RoleList.GuardianAngel", "Layer.GuardianAngel" ],
+    "ids": [ "CustomOption.GuardianAngel", "CustomOption.ProtectOptions.GA", "CustomOption.GuardianAngel1", "List.GuardianAngel", "Layer.GuardianAngel" ],
     "values":
     [
       {
@@ -3156,7 +3128,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Survivor", "CustomOption.Survivor1", "RoleList.Survivor", "Layer.Survivor" ],
+    "ids": [ "CustomOption.Survivor", "CustomOption.Survivor1", "List.Survivor", "Layer.Survivor" ],
     "values":
     [
       {
@@ -3170,7 +3142,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Thief", "CustomOption.Thief1", "RoleList.Thief", "Layer.Thief" ],
+    "ids": [ "CustomOption.Thief", "CustomOption.Thief1", "List.Thief", "Layer.Thief" ],
     "values":
     [
       {
@@ -3198,7 +3170,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Actor", "CustomOption.Actor1", "RoleList.Actor", "Layer.Actor" ],
+    "ids": [ "CustomOption.Actor", "CustomOption.Actor1", "List.Actor", "Layer.Actor" ],
     "values":
     [
       {
@@ -3212,7 +3184,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.BountyHunter", "CustomOption.BountyHunter1", "RoleList.BountyHunter", "Layer.BountyHunter" ],
+    "ids": [ "CustomOption.BountyHunter", "CustomOption.BountyHunter1", "List.BountyHunter", "Layer.BountyHunter" ],
     "values":
     [
       {
@@ -3226,7 +3198,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Cannibal", "CustomOption.Cannibal1", "RoleList.Cannibal", "Layer.Cannibal" ],
+    "ids": [ "CustomOption.Cannibal", "CustomOption.Cannibal1", "List.Cannibal", "Layer.Cannibal" ],
     "values":
     [
       {
@@ -3240,7 +3212,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Executioner", "CustomOption.Executioner1", "RoleList.Executioner", "Layer.Executioner" ],
+    "ids": [ "CustomOption.Executioner", "CustomOption.Executioner1", "List.Executioner", "Layer.Executioner" ],
     "values":
     [
       {
@@ -3254,7 +3226,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Guesser", "CustomOption.Guesser1", "RoleList.Guesser", "Layer.Guesser" ],
+    "ids": [ "CustomOption.Guesser", "CustomOption.Guesser1", "List.Guesser", "Layer.Guesser" ],
     "values":
     [
       {
@@ -3268,7 +3240,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Jester", "CustomOption.Jester1", "RoleList.Jester", "Layer.Jester" ],
+    "ids": [ "CustomOption.Jester", "CustomOption.Jester1", "List.Jester", "Layer.Jester" ],
     "values":
     [
       {
@@ -3282,7 +3254,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Troll", "CustomOption.Troll1", "RoleList.Troll", "Layer.Troll" ],
+    "ids": [ "CustomOption.Troll", "CustomOption.Troll1", "List.Troll", "Layer.Troll" ],
     "values":
     [
       {
@@ -3310,7 +3282,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Plaguebearer", "CustomOption.Plaguebearer1", "RoleList.Plaguebearer", "Layer.Plaguebearer" ],
+    "ids": [ "CustomOption.Plaguebearer", "CustomOption.Plaguebearer1", "List.Plaguebearer", "Layer.Plaguebearer" ],
     "values":
     [
       {
@@ -3334,7 +3306,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Pestilence", "CustomOption.Pestilence1", "RoleList.Pestilence", "Layer.Pestilence" ],
+    "ids": [ "CustomOption.Pestilence", "CustomOption.Pestilence1", "List.Pestilence", "Layer.Pestilence" ],
     "values":
     [
       {
@@ -3358,7 +3330,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Arsonist", "CustomOption.Arsonist1", "RoleList.Arsonist", "Layer.Arsonist" ],
+    "ids": [ "CustomOption.Arsonist", "CustomOption.Arsonist1", "List.Arsonist", "Layer.Arsonist" ],
     "values":
     [
       {
@@ -3372,7 +3344,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Cryomaniac", "CustomOption.Cryomaniac1", "RoleList.Cryomaniac", "Layer.Cryomaniac" ],
+    "ids": [ "CustomOption.Cryomaniac", "CustomOption.Cryomaniac1", "List.Cryomaniac", "Layer.Cryomaniac" ],
     "values":
     [
       {
@@ -3386,7 +3358,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Glitch", "CustomOption.Glitch1", "RoleList.Glitch", "Layer.Glitch" ],
+    "ids": [ "CustomOption.Glitch", "CustomOption.Glitch1", "List.Glitch", "Layer.Glitch" ],
     "values":
     [
       {
@@ -3400,7 +3372,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Juggernaut", "CustomOption.Juggernaut1", "RoleList.Juggernaut", "Layer.Juggernaut" ],
+    "ids": [ "CustomOption.Juggernaut", "CustomOption.Juggernaut1", "List.Juggernaut", "Layer.Juggernaut" ],
     "values":
     [
       {
@@ -3414,7 +3386,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Murderer", "CustomOption.Murderer1", "RoleList.Murderer", "Layer.Murderer" ],
+    "ids": [ "CustomOption.Murderer", "CustomOption.Murderer1", "List.Murderer", "Layer.Murderer" ],
     "values":
     [
       {
@@ -3428,7 +3400,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.SerialKiller", "CustomOption.SerialKiller1", "RoleList.SerialKiller", "Layer.SerialKiller" ],
+    "ids": [ "CustomOption.SerialKiller", "CustomOption.SerialKiller1", "List.SerialKiller", "Layer.SerialKiller" ],
     "values":
     [
       {
@@ -3442,7 +3414,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Werewolf", "CustomOption.Werewolf1", "RoleList.Werewolf", "Layer.Werewolf" ],
+    "ids": [ "CustomOption.Werewolf", "CustomOption.Werewolf1", "List.Werewolf", "Layer.Werewolf" ],
     "values":
     [
       {
@@ -3470,7 +3442,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Dracula", "CustomOption.Dracula1", "RoleList.Dracula", "Layer.Dracula" ],
+    "ids": [ "CustomOption.Dracula", "CustomOption.Dracula1", "List.Dracula", "Layer.Dracula" ],
     "values":
     [
       {
@@ -3484,7 +3456,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Necromancer", "CustomOption.Necromancer1", "RoleList.Necromancer", "Layer.Necromancer" ],
+    "ids": [ "CustomOption.Necromancer", "CustomOption.Necromancer1", "List.Necromancer", "Layer.Necromancer" ],
     "values":
     [
       {
@@ -3498,7 +3470,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Whisperer", "CustomOption.Whisperer1", "RoleList.Whisperer", "Layer.Whisperer" ],
+    "ids": [ "CustomOption.Whisperer", "CustomOption.Whisperer1", "List.Whisperer", "Layer.Whisperer" ],
     "values":
     [
       {
@@ -3512,7 +3484,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Jackal", "CustomOption.Jackal1", "RoleList.Jackal", "Layer.Jackal" ],
+    "ids": [ "CustomOption.Jackal", "CustomOption.Jackal1", "List.Jackal", "Layer.Jackal" ],
     "values":
     [
       {
@@ -3578,7 +3550,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Blackmailer", "CustomOption.Blackmailer1", "RoleList.Blackmailer", "Layer.Blackmailer" ],
+    "ids": [ "CustomOption.Blackmailer", "CustomOption.Blackmailer1", "List.Blackmailer", "Layer.Blackmailer" ],
     "values":
     [
       {
@@ -3592,7 +3564,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Camouflager", "CustomOption.Camouflager1", "RoleList.Camouflager", "Layer.Camouflager" ],
+    "ids": [ "CustomOption.Camouflager", "CustomOption.Camouflager1", "List.Camouflager", "Layer.Camouflager" ],
     "values":
     [
       {
@@ -3606,7 +3578,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Grenadier", "CustomOption.Grenadier1", "RoleList.Grenadier", "Layer.Grenadier" ],
+    "ids": [ "CustomOption.Grenadier", "CustomOption.Grenadier1", "List.Grenadier", "Layer.Grenadier" ],
     "values":
     [
       {
@@ -3620,7 +3592,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Janitor", "CustomOption.Janitor1", "RoleList.Janitor", "Layer.Janitor" ],
+    "ids": [ "CustomOption.Janitor", "CustomOption.Janitor1", "List.Janitor", "Layer.Janitor" ],
     "values":
     [
       {
@@ -3648,7 +3620,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Disguiser", "CustomOption.Disguiser1", "RoleList.Disguiser", "Layer.Disguiser" ],
+    "ids": [ "CustomOption.Disguiser", "CustomOption.Disguiser1", "List.Disguiser", "Layer.Disguiser" ],
     "values":
     [
       {
@@ -3662,7 +3634,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Morphling", "CustomOption.Morphling1", "RoleList.Morphling", "Layer.Morphling" ],
+    "ids": [ "CustomOption.Morphling", "CustomOption.Morphling1", "List.Morphling", "Layer.Morphling" ],
     "values":
     [
       {
@@ -3676,7 +3648,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Wraith", "CustomOption.Wraith1", "RoleList.Wraith", "Layer.Wraith" ],
+    "ids": [ "CustomOption.Wraith", "CustomOption.Wraith1", "List.Wraith", "Layer.Wraith" ],
     "values":
     [
       {
@@ -3704,7 +3676,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Ambusher", "CustomOption.Ambusher1", "RoleList.Ambusher", "Layer.Ambusher" ],
+    "ids": [ "CustomOption.Ambusher", "CustomOption.Ambusher1", "List.Ambusher", "Layer.Ambusher" ],
     "values":
     [
       {
@@ -3718,7 +3690,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Enforcer", "CustomOption.Enforcer1", "RoleList.Enforcer", "Layer.Enforcer" ],
+    "ids": [ "CustomOption.Enforcer", "CustomOption.Enforcer1", "List.Enforcer", "Layer.Enforcer" ],
     "values":
     [
       {
@@ -3756,7 +3728,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Consigliere", "CustomOption.Consigliere1", "RoleList.Consigliere", "Layer.Consigliere" ],
+    "ids": [ "CustomOption.Consigliere", "CustomOption.Consigliere1", "List.Consigliere", "Layer.Consigliere" ],
     "values":
     [
       {
@@ -3770,7 +3742,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Godfather", "CustomOption.Godfather1", "RoleList.Godfather", "Layer.Godfather", "Layer.PromotedGodfather" ],
+    "ids": [ "CustomOption.Godfather", "CustomOption.Godfather1", "List.Godfather", "Layer.Godfather", "Layer.PromotedGodfather" ],
     "values":
     [
       {
@@ -3784,7 +3756,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Consort", "CustomOption.Consort1", "RoleList.Consort", "Layer.Consort" ],
+    "ids": [ "CustomOption.Consort", "CustomOption.Consort1", "List.Consort", "Layer.Consort" ],
     "values":
     [
       {
@@ -3798,7 +3770,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Miner", "CustomOption.Miner1", "RoleList.Miner", "Layer.Miner" ],
+    "ids": [ "CustomOption.Miner", "CustomOption.Miner1", "List.Miner", "Layer.Miner" ],
     "values":
     [
       {
@@ -3812,7 +3784,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Teleporter", "CustomOption.Teleporter1", "RoleList.Teleporter", "Layer.Teleporter" ],
+    "ids": [ "CustomOption.Teleporter", "CustomOption.Teleporter1", "List.Teleporter", "Layer.Teleporter" ],
     "values":
     [
       {
@@ -3854,7 +3826,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Impostor", "RoleList.Impostor", "Layer.Impostor" ],
+    "ids": [ "CustomOption.Impostor", "List.Impostor", "Layer.Impostor" ],
     "values":
     [
       {
@@ -3882,7 +3854,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Concealer", "CustomOption.Concealer1", "RoleList.Concealer", "Layer.Concealer" ],
+    "ids": [ "CustomOption.Concealer", "CustomOption.Concealer1", "List.Concealer", "Layer.Concealer" ],
     "values":
     [
       {
@@ -3896,7 +3868,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Drunkard", "CustomOption.Drunkard1", "RoleList.Drunkard", "Layer.Drunkard" ],
+    "ids": [ "CustomOption.Drunkard", "CustomOption.Drunkard1", "List.Drunkard", "Layer.Drunkard" ],
     "values":
     [
       {
@@ -3910,7 +3882,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Framer", "CustomOption.Framer1", "RoleList.Framer", "Layer.Framer" ],
+    "ids": [ "CustomOption.Framer", "CustomOption.Framer1", "List.Framer", "Layer.Framer" ],
     "values":
     [
       {
@@ -3924,7 +3896,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Shapeshifter", "CustomOption.Shapeshifter1", "RoleList.Shapeshifter", "Layer.Shapeshifter" ],
+    "ids": [ "CustomOption.Shapeshifter", "CustomOption.Shapeshifter1", "List.Shapeshifter", "Layer.Shapeshifter" ],
     "values":
     [
       {
@@ -3938,7 +3910,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Silencer", "CustomOption.Silencer1", "RoleList.Silencer", "Layer.Silencer" ],
+    "ids": [ "CustomOption.Silencer", "CustomOption.Silencer1", "List.Silencer", "Layer.Silencer" ],
     "values":
     [
       {
@@ -3966,7 +3938,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Bomber", "CustomOption.Bomber1", "RoleList.Bomber", "Layer.Bomber" ],
+    "ids": [ "CustomOption.Bomber", "CustomOption.Bomber1", "List.Bomber", "Layer.Bomber" ],
     "values":
     [
       {
@@ -3980,7 +3952,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Crusader", "CustomOption.Crusader1", "RoleList.Crusader", "Layer.Crusader" ],
+    "ids": [ "CustomOption.Crusader", "CustomOption.Crusader1", "List.Crusader", "Layer.Crusader" ],
     "values":
     [
       {
@@ -3994,7 +3966,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Collider", "CustomOption.Collider1", "RoleList.Collider", "Layer.Collider" ],
+    "ids": [ "CustomOption.Collider", "CustomOption.Collider1", "List.Collider", "Layer.Collider" ],
     "values":
     [
       {
@@ -4008,7 +3980,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Poisoner", "CustomOption.Poisoner1", "RoleList.Poisoner", "Layer.Poisoner" ],
+    "ids": [ "CustomOption.Poisoner", "CustomOption.Poisoner1", "List.Poisoner", "Layer.Poisoner" ],
     "values":
     [
       {
@@ -4036,7 +4008,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Rebel", "CustomOption.Rebel1", "RoleList.Rebel", "Layer.Rebel", "Layer.PromotedRebel" ],
+    "ids": [ "CustomOption.Rebel", "CustomOption.Rebel1", "List.Rebel", "Layer.Rebel", "Layer.PromotedRebel" ],
     "values":
     [
       {
@@ -4050,7 +4022,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Stalker", "CustomOption.Stalker1", "RoleList.Stalker", "Layer.Stalker" ],
+    "ids": [ "CustomOption.Stalker", "CustomOption.Stalker1", "List.Stalker", "Layer.Stalker" ],
     "values":
     [
       {
@@ -4064,7 +4036,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Warper", "CustomOption.Warper1", "RoleList.Warper", "Layer.Warper" ],
+    "ids": [ "CustomOption.Warper", "CustomOption.Warper1", "List.Warper", "Layer.Warper" ],
     "values":
     [
       {
@@ -4106,7 +4078,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Anarchist", "RoleList.Anarchist", "Layer.Anarchist" ],
+    "ids": [ "CustomOption.Anarchist", "List.Anarchist", "Layer.Anarchist" ],
     "values":
     [
       {
@@ -4134,7 +4106,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Spellslinger", "CustomOption.Spellslinger1", "RoleList.Spellslinger", "Layer.Spellslinger" ],
+    "ids": [ "CustomOption.Spellslinger", "CustomOption.Spellslinger1", "List.Spellslinger", "Layer.Spellslinger" ],
     "values":
     [
       {
@@ -4148,7 +4120,7 @@
     ]
   },
   {
-    "ids": [ "CustomOption.Timekeeper", "CustomOption.Timekeeper1", "RoleList.Timekeeper", "Layer.Timekeeper" ],
+    "ids": [ "CustomOption.Timekeeper", "CustomOption.Timekeeper1", "List.Timekeeper", "Layer.Timekeeper" ],
     "values":
     [
       {
@@ -5115,32 +5087,12 @@
     ]
   },
   {
-    "id": "CustomOption.MaxCA",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Max <#8CFFFFFF>Crew</color> <#1D7CF2FF>Auditors</color>"
-      }
-    ]
-  },
-  {
     "id": "CustomOption.RevealCd",
     "values":
     [
       {
         "name": "English",
         "value": "Reveal Cooldown"
-      }
-    ]
-  },
-  {
-    "id": "CustomOption.StakeCd",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "Stake Cooldown"
       }
     ]
   },
@@ -5925,16 +5877,6 @@
     ]
   },
   {
-    "id": "CustomOption.DictateAfterVoting",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "<#00CB97FF>Dictator</color> Can Veto After Voting"
-      }
-    ]
-  },
-  {
     "id": "CustomOption.DictatorButton",
     "values":
     [
@@ -6111,16 +6053,6 @@
       {
         "name": "English",
         "value": "Roleblock Duration"
-      }
-    ]
-  },
-  {
-    "id": "CustomOption.ReviveAfterVoting",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "<#8D0F8CFF>Retributionist</color> Can Mimic After Voting"
       }
     ]
   },
@@ -6775,16 +6707,6 @@
     ]
   },
   {
-    "id": "CustomOption.ThiefCanGuessAfterVoting",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "<#80FF00FF>Thief</color> Can Guess After Voting"
-      }
-    ]
-  },
-  {
     "id": "CustomOption.ThiefVent",
     "values":
     [
@@ -7161,16 +7083,6 @@
       {
         "name": "English",
         "value": "Max Meeting Guesses"
-      }
-    ]
-  },
-  {
-    "id": "CustomOption.GuesserAfterVoting",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "<#EEE5BEFF>Guesser</color> Can Guess After Voting"
       }
     ]
   },
@@ -9545,16 +9457,6 @@
     ]
   },
   {
-    "id": "CustomOption.AssassinateAfterVoting",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "<#073763FF>Assassin</color> Can Guess After Voting"
-      }
-    ]
-  },
-  {
     "id": "CustomOption.ButtonCd",
     "values":
     [
@@ -9671,16 +9573,6 @@
       {
         "name": "English",
         "value": "<#66E666FF>Swapper</color> Can Button"
-      }
-    ]
-  },
-  {
-    "id": "CustomOption.SwapAfterVoting",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "<#66E666FF>Swapper</color> Can Swap After Voting"
       }
     ]
   },
@@ -10487,7 +10379,7 @@
     ]
   },
   {
-    "ids": [ "RoleList.None", "Layer.NoneModifier", "Layer.NoneDisposition", "Layer.NoneAbility", "Layer.NonRole" ],
+    "ids": [ "List.None", "Layer.NoneModifier", "Layer.NoneDisposition", "Layer.NoneAbility", "Layer.NonRole" ],
     "values":
     [
       {
@@ -10497,7 +10389,7 @@
     ]
   },
   {
-    "id": "RoleList.RandomCrew",
+    "id": "List.RandomCrew",
     "values":
     [
       {
@@ -10507,7 +10399,7 @@
     ]
   },
   {
-    "id": "RoleList.CrewSupport",
+    "id": "List.CrewSupport",
     "values":
     [
       {
@@ -10517,7 +10409,7 @@
     ]
   },
   {
-    "id": "RoleList.CrewInvest",
+    "id": "List.CrewInvest",
     "values":
     [
       {
@@ -10527,7 +10419,7 @@
     ]
   },
   {
-    "id": "RoleList.CrewProt",
+    "id": "List.CrewProt",
     "values":
     [
       {
@@ -10537,7 +10429,7 @@
     ]
   },
   {
-    "id": "RoleList.CrewKill",
+    "id": "List.CrewKill",
     "values":
     [
       {
@@ -10547,7 +10439,7 @@
     ]
   },
   {
-    "id": "RoleList.CrewSov",
+    "id": "List.CrewSov",
     "values":
     [
       {
@@ -10557,7 +10449,7 @@
     ]
   },
   {
-    "id": "RoleList.CrewAudit",
+    "id": "List.CrewAudit",
     "values":
     [
       {
@@ -10567,7 +10459,7 @@
     ]
   },
   {
-    "id": "RoleList.CrewUtil",
+    "id": "List.CrewUtil",
     "values":
     [
       {
@@ -10577,7 +10469,7 @@
     ]
   },
   {
-    "id": "RoleList.RegularCrew",
+    "id": "List.RegularCrew",
     "values":
     [
       {
@@ -10587,7 +10479,7 @@
     ]
   },
   {
-    "id": "RoleList.RandomIntruder",
+    "id": "List.RandomIntruder",
     "values":
     [
       {
@@ -10597,7 +10489,7 @@
     ]
   },
   {
-    "id": "RoleList.IntruderSupport",
+    "id": "List.IntruderSupport",
     "values":
     [
       {
@@ -10607,7 +10499,7 @@
     ]
   },
   {
-    "id": "RoleList.IntruderConceal",
+    "id": "List.IntruderConceal",
     "values":
     [
       {
@@ -10617,7 +10509,7 @@
     ]
   },
   {
-    "id": "RoleList.IntruderDecep",
+    "id": "List.IntruderDecep",
     "values":
     [
       {
@@ -10627,7 +10519,7 @@
     ]
   },
   {
-    "id": "RoleList.IntruderKill",
+    "id": "List.IntruderKill",
     "values":
     [
       {
@@ -10637,7 +10529,7 @@
     ]
   },
   {
-    "id": "RoleList.IntruderUtil",
+    "id": "List.IntruderUtil",
     "values":
     [
       {
@@ -10647,7 +10539,7 @@
     ]
   },
   {
-    "id": "RoleList.IntruderHead",
+    "id": "List.IntruderHead",
     "values":
     [
       {
@@ -10657,7 +10549,7 @@
     ]
   },
   {
-    "id": "RoleList.RegularIntruder",
+    "id": "List.RegularIntruder",
     "values":
     [
       {
@@ -10667,7 +10559,7 @@
     ]
   },
   {
-    "id": "RoleList.RandomNeutral",
+    "id": "List.RandomNeutral",
     "values":
     [
       {
@@ -10677,7 +10569,7 @@
     ]
   },
   {
-    "id": "RoleList.NeutralKill",
+    "id": "List.NeutralKill",
     "values":
     [
       {
@@ -10687,7 +10579,7 @@
     ]
   },
   {
-    "id": "RoleList.NeutralNeo",
+    "id": "List.NeutralNeo",
     "values":
     [
       {
@@ -10697,7 +10589,7 @@
     ]
   },
   {
-    "id": "RoleList.NeutralEvil",
+    "id": "List.NeutralEvil",
     "values":
     [
       {
@@ -10707,7 +10599,7 @@
     ]
   },
   {
-    "id": "RoleList.NeutralBen",
+    "id": "List.NeutralBen",
     "values":
     [
       {
@@ -10717,7 +10609,7 @@
     ]
   },
   {
-    "id": "RoleList.NeutralPros",
+    "id": "List.NeutralPros",
     "values":
     [
       {
@@ -10727,7 +10619,7 @@
     ]
   },
   {
-    "id": "RoleList.NeutralApoc",
+    "id": "List.NeutralApoc",
     "values":
     [
       {
@@ -10737,7 +10629,7 @@
     ]
   },
   {
-    "id": "RoleList.NeutralHarb",
+    "id": "List.NeutralHarb",
     "values":
     [
       {
@@ -10747,7 +10639,7 @@
     ]
   },
   {
-    "id": "RoleList.RegularNeutral",
+    "id": "List.RegularNeutral",
     "values":
     [
       {
@@ -10757,7 +10649,7 @@
     ]
   },
   {
-    "id": "RoleList.HarmfulNeutral",
+    "id": "List.HarmfulNeutral",
     "values":
     [
       {
@@ -10767,7 +10659,7 @@
     ]
   },
   {
-    "id": "RoleList.RandomSyndicate",
+    "id": "List.RandomSyndicate",
     "values":
     [
       {
@@ -10777,7 +10669,7 @@
     ]
   },
   {
-    "id": "RoleList.SyndicateKill",
+    "id": "List.SyndicateKill",
     "values":
     [
       {
@@ -10787,7 +10679,7 @@
     ]
   },
   {
-    "id": "RoleList.SyndicateSupport",
+    "id": "List.SyndicateSupport",
     "values":
     [
       {
@@ -10797,7 +10689,7 @@
     ]
   },
   {
-    "id": "RoleList.SyndicateDisrup",
+    "id": "List.SyndicateDisrup",
     "values":
     [
       {
@@ -10807,7 +10699,7 @@
     ]
   },
   {
-    "id": "RoleList.SyndicatePower",
+    "id": "List.SyndicatePower",
     "values":
     [
       {
@@ -10817,7 +10709,7 @@
     ]
   },
   {
-    "id": "RoleList.SyndicateUtil",
+    "id": "List.SyndicateUtil",
     "values":
     [
       {
@@ -10827,7 +10719,7 @@
     ]
   },
   {
-    "id": "RoleList.RegularSyndicate",
+    "id": "List.RegularSyndicate",
     "values":
     [
       {
@@ -10837,7 +10729,7 @@
     ]
   },
   {
-    "id": "RoleList.Any",
+    "id": "List.Any",
     "values":
     [
       {
@@ -10847,7 +10739,7 @@
     ]
   },
   {
-    "id": "RoleList.NonCrew",
+    "id": "List.NonCrew",
     "values":
     [
       {
@@ -10857,7 +10749,7 @@
     ]
   },
   {
-    "id": "RoleList.NonIntruder",
+    "id": "List.NonIntruder",
     "values":
     [
       {
@@ -10867,7 +10759,7 @@
     ]
   },
   {
-    "id": "RoleList.NonSyndicate",
+    "id": "List.NonSyndicate",
     "values":
     [
       {
@@ -10877,7 +10769,7 @@
     ]
   },
   {
-    "id": "RoleList.NonNeutral",
+    "id": "List.NonNeutral",
     "values":
     [
       {
@@ -10887,32 +10779,12 @@
     ]
   },
   {
-    "id": "RoleList.FactionedEvil",
+    "id": "List.FactionedEvil",
     "values":
     [
       {
         "name": "English",
         "value": "<#1D7CF2FF>Factioned</color> <#FF1919FF>E</color><#008000FF>v</color><#FF1919FF>i</color><#008000FF>l</color>"
-      }
-    ]
-  },
-  {
-    "id": "CustomOption.RoleListEntries",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "<#FA1C79FF>Role List</color> Entries"
-      }
-    ]
-  },
-  {
-    "id": "CustomOption.RoleListBans",
-    "values":
-    [
-      {
-        "name": "English",
-        "value": "<#FA1C79FF>Role List</color> Bans"
       }
     ]
   },
@@ -11397,6 +11269,886 @@
       {
         "name": "English",
         "value": "Level Impostor"
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Altruist.Quote",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "I know what I have to do but I don't know if I have the strength to do it."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Bastion.Quote",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Hop in there, I dare ya."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Chameleon.Quote",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Now you see me, now you don't."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Coroner.Quote",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "A body? Where? I need it."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Crewmate.Quote",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "I once made a pencil using 2 erasers...they were pointless, just like me."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Detective.Quote",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "I am skilled in identifying blood...yup that's not ketchup."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Dictator.Quote",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Out you go!"
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Engineer.Quote",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "How am I going to stop some big mean mother hubbard from tearing me a structurally superfluous new behind? The solution? Use a wrench. And if that don't work, use more wrench."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Escort.Quote",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Today, I will make you a man."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Mayor.Quote",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Um, those votes are legitimate. No, the votes are not rigged."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Monarch.Quote",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Doth thou solemnly swear thine allegiance to the lord?"
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Mystic.Quote",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "There's a hint of corruption."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Medium.Quote",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "The voices...they are telling me...my breath stinks? Can ghosts even smell?"
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Medic.Quote",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Where does it hurt?"
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Operative.Quote",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "The only thing you need to find out information is good placement and amazing levels of patience."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Retributionist.Quote",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Bodies...bodies...I NEED BODIES."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Revealer.Quote",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "I have no idea who I am or what is it that I do, the only thing I know is to finish my job."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Seer.Quote",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "You've got quite the history."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Sheriff.Quote",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Guys I promise I'm not an Executioner, I checked Blue and they're sus."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Shifter.Quote",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "GET BACK HERE I WANT YOUR ROLE."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Tracker.Quote",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "I only took up this job because the others were full. Yes it's a proper job. No, I'm not a stalker."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Transporter.Quote",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "You're here and you're there. Where will you go? That's for me to decide."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Trapper.Quote",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Just step over there kind sir."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Veteran.Quote",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Touch me, I dare you."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Vigilante.Quote",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "I AM THE HAND OF JUSTICE."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Trickster.Quote",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Hehehe fooled ya!"
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Actor.Quote",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "I am totally what you think of me as."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Amnesiac.Quote",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "I forgor :skull:"
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Arsonist.Quote",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "I like my meat well done."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Betrayer.Quote",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "The back that trusts me the most is the sweetest to stab."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.BountyHunter.Quote",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "You can run, but you can't hide."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Cannibal.Quote",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "How do you survive with no food but with a lot of people? Improvise, adapt, overcome."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Cryomaniac.Quote",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Anybody want ice scream?"
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Dracula.Quote",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Everyone calls me a pain in the neck."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Executioner.Quote",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Source: Trust me bro."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Glitch.Quote",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Hippity hoppity, your code is now my property."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.GuardianAngel.Quote",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Hush child...Mama's here."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Guesser.Quote",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "I want to know what you are."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Jackal.Quote",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "I've got money."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Jester.Quote",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Hehehe I wonder if I do this..."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Juggernaut.Quote",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "The doctor told me bones grow stronger when recieving damage. But then why did he kick me out when I picked up a hammer?"
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Murderer.Quote",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "I like my women like how I like my knives, sharp and painful."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Necromancer.Quote",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "I like the dead, they do a lot of things I like. For example, staying dead. But I exist to change that."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Pestilence.Quote",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "I am the god of disease, nothing can kill me."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Phantom.Quote",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "I'm the one who you should not have killed."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Plaguebearer.Quote",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "<i>Cough</i> This should surely work, right? <i>Cough</i> I sure hope it does."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.SerialKiller.Quote",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "I always come back."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Survivor.Quote",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Hey listen man, I mind my own business and you mind yours. Everyone wins! ... Why are you coming closer?"
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Thief.Quote",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Now it's mine."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Troll.Quote",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Kill me."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Werewolf.Quote",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "AWOOOOOOOOOOOOOOOOOOOO"
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Whisperer.Quote",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "PSST."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Ambusher.Quote",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "BOO!"
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Blackmailer.Quote",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Shush."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Camouflager.Quote",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Good luck telling me apart."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Consigliere.Quote",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "What are you?"
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Consort.Quote",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Today, I'll make you an even bigger man."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Disguiser.Quote",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Here, wear this for me please. I promise I won't do anything to you."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Enforcer.Quote",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "You will do as I say...unless you want to be the painting on the walls."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Ghoul.Quote",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "I CURSE YOU!"
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Godfather.Quote",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "I'm going to make an offer they can't refuse."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Grenadier.Quote",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "AAAAAAAAAAAAA YOUR EYES."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Impostor.Quote",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "If you ever feel useless, just remember I exist."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Janitor.Quote",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "I'm the guy you call to clean up after you."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Mafioso.Quote",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Yes, boss. Got it, boss."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Miner.Quote",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Boom! A hole!"
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Morphling.Quote",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "<i>Casually observing the chaos over Green seeing Red kill.</i> It was me."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Teleporter.Quote",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "He's here, he's there, he's everywhere. Who are ya gonna call? Psychic friend Fr-"
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Anarchist.Quote",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "If you ever feel useless, just remember that I also exist."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Banshee.Quote",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "AAAAAAAAAAAAAAA"
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Bomber.Quote",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "KABOOM!!"
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Concealer.Quote",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "HAHAHA YOU CAN'T SEE VERY WELL CAN YOU NOW?"
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Crusader.Quote",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "I WILL PURGE THIS UNHOLY LAND!"
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Collider.Quote",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "I'm a great matchmaker, trust me."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Drunkard.Quote",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "<i>Burp</i>"
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Framer.Quote",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Who knew old documents can get people into trouble?"
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Poisoner.Quote",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "So now if you mix these together, you end up creating this...thing."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Rebel.Quote",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "DOWN WITH THE GOVERNMENT!"
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Shapeshifter.Quote",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Everyone! We will be playing dress up! TOGETHER!"
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Sidekick.Quote",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Learning new things."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Silencer.Quote",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "QUIET."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Stalker.Quote",
+    "values":
+    [
+      {
+        "name": "I'll follow you.",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Spellslinger.Quote",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "I CURSE YOU TO SUCK ONE THOUSAND D-"
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Timekeeper.Quote",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "KDNEYS! I GOT NEW KIDNEYS! I don't like the colour."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Warper.Quote",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "BEGONE!"
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Hunter.Quote",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "You can hide, but you can't run."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Hunted.Quote",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "I am running and hiding."
+      }
+    ]
+  },
+  {
+    "id": "Wiki.Runner.Quote",
+    "values":
+    [
+      {
+        "name": "English",
+        "value": "Gotta go fast"
       }
     ]
   }
