@@ -1,5 +1,14 @@
 [
-  { "id": "Chaos" },
-  { "id": "Casual" },
-  { "id": "Ranked" }
+  {
+    "hash": "6ad0fe407bce9c657427a0bf9a12d5f0",
+    "id": "Chaos"
+  },
+  {
+    "hash": "200072147e3d23015ab9af66050bc242",
+    "id": "Casual"
+  },
+  {
+    "hash": "8a2787e992004ecf519dfdeaa66d4e23",
+    "id": "Ranked"
+  }
 ]

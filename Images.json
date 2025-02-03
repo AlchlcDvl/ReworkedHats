@@ -1,155 +1,610 @@
 [
-  { "id": "Alert" },
-  { "id": "ArsoDouse" },
-  { "id": "Bite" },
-  { "id": "Blackmail" },
-  { "id": "Bug" },
-  { "id": "Button" },
-  { "id": "Camouflage" },
-  { "id": "Clean" },
-  { "id": "Corrupt" },
-  { "id": "CrewVent" },
-  { "id": "EscortRoleblock" },
-  { "id": "Examine" },
-  { "id": "Fix" },
-  { "id": "Guess" },
-  { "id": "Hack" },
-  { "id": "Haunt" },
-  { "id": "Interrogate" },
-  { "id": "IntruderKill" },
-  { "id": "IntruderVent" },
-  { "id": "Invis" },
-  { "id": "Mediate" },
-  { "id": "Mimic" },
-  { "id": "Morph" },
-  { "id": "Murder" },
-  { "id": "NecroKill" },
-  { "id": "NeutralVent" },
-  { "id": "Poison" },
-  { "id": "Promote" },
-  { "id": "Protect" },
-  { "id": "Recruit" },
-  { "id": "Remember" },
-  { "id": "Revive" },
-  { "id": "Sample" },
-  { "id": "SettingsButton" },
-  { "id": "Shapeshift" },
-  { "id": "Shield" },
-  { "id": "Shift" },
-  { "id": "Shoot" },
-  { "id": "Sidekick" },
-  { "id": "Spellbind" },
-  { "id": "Stake" },
-  { "id": "Stalk" },
-  { "id": "SwapActive" },
-  { "id": "SwapDisabled" },
-  { "id": "Swoop" },
-  { "id": "SyndicateKill" },
-  { "id": "SyndicateVent" },
-  { "id": "SyndicateSabotage" },
-  { "id": "Track" },
-  { "id": "Transport" },
-  { "id": "Vest" },
-  { "id": "Ambush" },
-  { "id": "Autopsy" },
-  { "id": "Bloodlust" },
-  { "id": "Compare" },
-  { "id": "Conceal" },
-  { "id": "Confuse" },
-  { "id": "ConsortRoleblock" },
-  { "id": "CryoDouse" },
-  { "id": "DictActive" },
-  { "id": "DictDisabled" },
-  { "id": "DictReveal" },
-  { "id": "Disguise" },
-  { "id": "Freeze" },
-  { "id": "GhoulMark" },
-  { "id": "Hunt" },
-  { "id": "Ignite" },
-  { "id": "Infect" },
-  { "id": "Investigate" },
-  { "id": "Mark" },
-  { "id": "Measure" },
-  { "id": "Mine" },
-  { "id": "Negative" },
-  { "id": "Obliterate" },
-  { "id": "Positive" },
-  { "id": "Resurrect" },
-  { "id": "RetActive" },
-  { "id": "RetDisabled" },
-  { "id": "Stab" },
-  { "id": "Steal" },
-  { "id": "Teleport" },
-  { "id": "Time" },
-  { "id": "BombKill" },
-  { "id": "Charge" },
-  { "id": "Crusade" },
-  { "id": "Detonate" },
-  { "id": "Drag" },
-  { "id": "Drop" },
-  { "id": "Eat" },
-  { "id": "Enforce" },
-  { "id": "ExeTarget" },
-  { "id": "Frame" },
-  { "id": "GlobalPoison" },
-  { "id": "Knight" },
-  { "id": "MayorReveal" },
-  { "id": "MysticReveal" },
-  { "id": "Neutralise" },
-  { "id": "Plant" },
-  { "id": "RadialFrame" },
-  { "id": "Scream" },
-  { "id": "Silence" },
-  { "id": "Seer" },
-  { "id": "PlaceHit" },
-  { "id": "Pretend" },
-  { "id": "DownloadSubmerged" },
-  { "id": "GraveProtect" },
-  { "id": "IntruderSabotage" },
-  { "id": "UpdateReworked" },
-  { "id": "UpdateSubmerged" },
-  { "id": "Doom" },
-  { "id": "DownloadLevelImpostor" },
-  { "id": "MetalVentBomb" },
-  { "id": "PlantPlant" },
-  { "id": "PlantVentBomb" },
-  { "id": "PolusVentBomb" },
-  { "id": "Warp" },
-  { "id": "Arrow" },
-  { "id": "AshPile" },
-  { "id": "Blocked" },
-  { "id": "Chat" },
-  { "id": "FootprintLeft" },
-  { "id": "FootprintRight" },
-  { "id": "Overlay" },
-  { "id": "Range" },
-  { "id": "Phone" },
-  { "id": "Plate" },
-  { "id": "Blank" },
-  { "id": "Dleks" },
-  { "id": "Random" },
-  { "id": "RandomMapIcon" },
-  { "id": "DleksMapIcon" },
-  { "id": "DleksBackground" },
-  { "id": "DleksLobby" },
-  { "id": "RandomMapBackground" },
-  { "id": "RandomMapLobby" },
-  { "id": "Cog" },
-  { "id": "CogActive" },
-  { "id": "ReturnActive" },
-  { "id": "ReturnInactive" },
-  { "id": "MinusActive" },
-  { "id": "MinusInactive" },
-  { "id": "NextActive" },
-  { "id": "NextInactive" },
-  { "id": "PlusActive" },
-  { "id": "PlusInactive" },
-  { "id": "SettingsActive" },
-  { "id": "SettingsInactive" },
-  { "id": "WikiActive" },
-  { "id": "WikiInactive" },
-  { "id": "Info" },
-  { "id": "Discord" },
-  { "id": "GitHub" },
-  { "id": "NightVision" }
+  {
+    "hash": "d66bd9adedb441251f9108b774ead3e4",
+    "id": "Alert"
+  },
+  {
+    "hash": "86059d11e1b024e3890ba802b5e8786a",
+    "id": "ArsoDouse"
+  },
+  {
+    "hash": "b966e3b71cbc7fb4d270b27ca157f3f2",
+    "id": "Bite"
+  },
+  {
+    "hash": "d0ceb1e2bd3f7bb39a46d6bd52ab8944",
+    "id": "Blackmail"
+  },
+  {
+    "hash": "56ba8df36894bbd62182e92a39a11bfe",
+    "id": "Bug"
+  },
+  {
+    "hash": "04d7fd9c74f97a2fda44d0b29a69db2c",
+    "id": "Button"
+  },
+  {
+    "hash": "f6f5f8b39e4520affa16f77a20c91a26",
+    "id": "Camouflage"
+  },
+  {
+    "hash": "e565349752164e25d26e7e5d97732302",
+    "id": "Clean"
+  },
+  {
+    "hash": "fe7e6e4ccbf4b84d7f2bacca874cc24e",
+    "id": "Corrupt"
+  },
+  {
+    "hash": "98bf236c0a14bef676b06ba5d6aaacd9",
+    "id": "CrewVent"
+  },
+  {
+    "hash": "85a5120cc17ce667b1ae25623a476b35",
+    "id": "EscortRoleblock"
+  },
+  {
+    "hash": "d9f7dd65559796d0faabaffe938d346b",
+    "id": "Examine"
+  },
+  {
+    "hash": "4ffc77db0dab0a57b030ecf71cce2a1f",
+    "id": "Fix"
+  },
+  {
+    "hash": "52718029994bb4b7cafe8101b4f361ea",
+    "id": "Guess"
+  },
+  {
+    "hash": "d2189e579bcf6fe8db310656855cd3ff",
+    "id": "Hack"
+  },
+  {
+    "hash": "70bfd3143a628969a577b344f7de837f",
+    "id": "Haunt"
+  },
+  {
+    "hash": "1b404768a21ba361e2ea1810f35c9ff8",
+    "id": "Interrogate"
+  },
+  {
+    "hash": "b29616fcc790a22073dd8e99881109a5",
+    "id": "IntruderKill"
+  },
+  {
+    "hash": "700e0cafaedea6984ab5b23481569f90",
+    "id": "IntruderVent"
+  },
+  {
+    "hash": "c72a898c46fccc738e382633c0cadbc8",
+    "id": "Invis"
+  },
+  {
+    "hash": "ccd10c9543c52ccab1af3caad02e5660",
+    "id": "Mediate"
+  },
+  {
+    "hash": "03b7fbd3a5559de349a8346e1fc6d0af",
+    "id": "Mimic"
+  },
+  {
+    "hash": "30af7acb8c7c6bfc1936bd200d3f37e3",
+    "id": "Morph"
+  },
+  {
+    "hash": "71c3b37915f127c4132c748a5cbb8aa0",
+    "id": "Murder"
+  },
+  {
+    "hash": "4d88e3ea9d2e62a110afb5c6037fdb6d",
+    "id": "NecroKill"
+  },
+  {
+    "hash": "88bfa75ae8704b73ec5cb4f1430c809e",
+    "id": "NeutralVent"
+  },
+  {
+    "hash": "aa6d762a1551083fcf330ccd0e09684d",
+    "id": "Poison"
+  },
+  {
+    "hash": "b5e03d90ce087cb4753d750f8e14e805",
+    "id": "Promote"
+  },
+  {
+    "hash": "d9196fe43f4cbdd344190e440686cb69",
+    "id": "Protect"
+  },
+  {
+    "hash": "669e0bc0bda81ed12ba9f2588b32780c",
+    "id": "Recruit"
+  },
+  {
+    "hash": "1f2923d551c2335b6f2125f0ae4c05f3",
+    "id": "Remember"
+  },
+  {
+    "hash": "50d03fa7708ec0097502bcc3190fe08b",
+    "id": "Revive"
+  },
+  {
+    "hash": "0981d0f42c21070fac9e67265fb1a90f",
+    "id": "Sample"
+  },
+  {
+    "hash": "a4ef0ff2d05fee0d8ee2958552f00108",
+    "id": "SettingsButton"
+  },
+  {
+    "hash": "69461a3f99f1e5325432e05fecc73b9e",
+    "id": "Shapeshift"
+  },
+  {
+    "hash": "5c2cccaa4ac5f6eb9ece2e5c52965ad1",
+    "id": "Shield"
+  },
+  {
+    "hash": "0b0810b12e7653c8e30151d558ac99b7",
+    "id": "Shift"
+  },
+  {
+    "hash": "fb4e9937265e10a933aa49992dc5431a",
+    "id": "Shoot"
+  },
+  {
+    "hash": "4e285e75f58a6e41e80ab5b77fc5bbe4",
+    "id": "Sidekick"
+  },
+  {
+    "hash": "4251f815878f01ea29061f26a3985fa8",
+    "id": "Spellbind"
+  },
+  {
+    "hash": "28043eb3ff3f41780f33f1a5a7e916f4",
+    "id": "Stalk"
+  },
+  {
+    "hash": "210bde9fabbdf6af66e8a7249d2291e4",
+    "id": "SwapActive"
+  },
+  {
+    "hash": "17691fe7be3949d88caf8b7f43fca767",
+    "id": "SwapDisabled"
+  },
+  {
+    "hash": "874e1a988ecf2101ad5b64c1e5b32458",
+    "id": "Swoop"
+  },
+  {
+    "hash": "032a49b4ee1d337b9a044d1b92bf98b1",
+    "id": "SyndicateKill"
+  },
+  {
+    "hash": "c8e74e57bf658251db92cc4ca0079581",
+    "id": "SyndicateVent"
+  },
+  {
+    "hash": "2cd510f39e0ac329198689102ac3e5bd",
+    "id": "SyndicateSabotage"
+  },
+  {
+    "hash": "0f7d73d5d81ac6d1138b21ec2f15682f",
+    "id": "Track"
+  },
+  {
+    "hash": "c83f2c2bcd2fcf9d857ab45c6ddc8215",
+    "id": "Transport"
+  },
+  {
+    "hash": "0a76807089ec235bbdf6e204898805d7",
+    "id": "Vest"
+  },
+  {
+    "hash": "d25b7f4982e8197d2a39daa8c7b5a207",
+    "id": "Ambush"
+  },
+  {
+    "hash": "1c8b3a3b4a5e61b7e6fceb7c56ec57b3",
+    "id": "Autopsy"
+  },
+  {
+    "hash": "404ca8d76c425aee419dcaf63c17cb08",
+    "id": "Bloodlust"
+  },
+  {
+    "hash": "63111bb74314dbb1cd80e11525a1e5d1",
+    "id": "Compare"
+  },
+  {
+    "hash": "a7b7ee4debe2bfc52c2dfdda25f5cee8",
+    "id": "Conceal"
+  },
+  {
+    "hash": "6a52f35b18c623d7aa6c2143098534ca",
+    "id": "Confuse"
+  },
+  {
+    "hash": "e6d09a685f9221f13d48c3203d11d811",
+    "id": "ConsortRoleblock"
+  },
+  {
+    "hash": "eb53a0c8cfa9886d78752c8bab3e227b",
+    "id": "CryoDouse"
+  },
+  {
+    "hash": "216a29c1b4d8d931ec6d30a5bd463e9f",
+    "id": "DictActive"
+  },
+  {
+    "hash": "4da183f571c725a9aa72b7e8b1d732c2",
+    "id": "DictDisabled"
+  },
+  {
+    "hash": "1964e65631463caf58f9c18ba6cac29f",
+    "id": "DictReveal"
+  },
+  {
+    "hash": "7f40d46b61d7d7f5def9dc8186b5b3c0",
+    "id": "Disguise"
+  },
+  {
+    "hash": "e40ededba413015600b2f54e5cac1220",
+    "id": "Freeze"
+  },
+  {
+    "hash": "832f588620083c6b78e9b6f59128c747",
+    "id": "GhoulMark"
+  },
+  {
+    "hash": "3491232dafaf6ebcb7eeee4a9f4decf4",
+    "id": "Hunt"
+  },
+  {
+    "hash": "8601dd8c49e7dff050a367ad493e70b2",
+    "id": "Ignite"
+  },
+  {
+    "hash": "2cb2b53bd54bf2d78651bb4dd11b78a0",
+    "id": "Infect"
+  },
+  {
+    "hash": "9319dc9876593cfb5b6e72d2b34a4642",
+    "id": "Investigate"
+  },
+  {
+    "hash": "b22b4b53d8ff860aac650143600b2cc5",
+    "id": "Mark"
+  },
+  {
+    "hash": "179e5b1411caa5c9f4450180942c3b90",
+    "id": "Measure"
+  },
+  {
+    "hash": "6bfd1099ab32f8951b7a901bd90ba438",
+    "id": "Mine"
+  },
+  {
+    "hash": "39256b6ddde1c3b11fe71ff502ef10d1",
+    "id": "Negative"
+  },
+  {
+    "hash": "ac856d72490d2f458ff41a8fc904b077",
+    "id": "Obliterate"
+  },
+  {
+    "hash": "c718adb765d9dc5b08a630e902e58ebe",
+    "id": "Positive"
+  },
+  {
+    "hash": "661b6f8bfcacc626291e1803a4d171f0",
+    "id": "Resurrect"
+  },
+  {
+    "hash": "5b5d7e7b4dc4fb43a1df95f558d797f6",
+    "id": "RetActive"
+  },
+  {
+    "hash": "5cfd2ea5675b5aa24d8bb44dd31a8502",
+    "id": "RetDisabled"
+  },
+  {
+    "hash": "fcd39d9543c9b941f6d818aec51fb972",
+    "id": "Stab"
+  },
+  {
+    "hash": "4e924e87152615e12a141399c35135e5",
+    "id": "Steal"
+  },
+  {
+    "hash": "89b41169264c5f0d9058692347ed476c",
+    "id": "Teleport"
+  },
+  {
+    "hash": "c801103584d6dfc0642ed8f36c6a7f2e",
+    "id": "Time"
+  },
+  {
+    "hash": "5abc8d4c83939cb7091a38ddc9629dca",
+    "id": "BombKill"
+  },
+  {
+    "hash": "6cf7a2e52ad22fcd16b0f1c1e3044154",
+    "id": "Charge"
+  },
+  {
+    "hash": "dc80c9faf7131c0d6bb169553e309d13",
+    "id": "Crusade"
+  },
+  {
+    "hash": "2d4bf6600a0e4f2275231125dd72f379",
+    "id": "Detonate"
+  },
+  {
+    "hash": "3cf44aa0f491903d8dc4dcecdfcddf56",
+    "id": "Drag"
+  },
+  {
+    "hash": "f25189bb2e831395b4e09aa03eb77109",
+    "id": "Drop"
+  },
+  {
+    "hash": "91849e095c320dda41229f7b41655554",
+    "id": "Eat"
+  },
+  {
+    "hash": "2471f1f4d5e65fdd7734fddf4fcd8b35",
+    "id": "Enforce"
+  },
+  {
+    "hash": "2a95f4bbee488d38d54821d6a3bb669c",
+    "id": "ExeTarget"
+  },
+  {
+    "hash": "fb59f2689e2e6c4a04462da0e8258978",
+    "id": "Frame"
+  },
+  {
+    "hash": "970fd50af5d90bca20cd17ee192c9724",
+    "id": "GlobalPoison"
+  },
+  {
+    "hash": "773b414d922a90900056bf45fa56a3c9",
+    "id": "Knight"
+  },
+  {
+    "hash": "b4765e2f04ae2dbd0c957ce94833f01d",
+    "id": "MayorReveal"
+  },
+  {
+    "hash": "0535a1d69102d3693dc64078169445bb",
+    "id": "MysticReveal"
+  },
+  {
+    "hash": "e06fde174fe0031942ece25b5619c54b",
+    "id": "Neutralise"
+  },
+  {
+    "hash": "3b4bb25a0225a975026113bb9159af7e",
+    "id": "Plant"
+  },
+  {
+    "hash": "efdee11bf293092c1a3c8e60f5dc67be",
+    "id": "RadialFrame"
+  },
+  {
+    "hash": "4e12492d80db19f4b00697dde0d779b8",
+    "id": "Scream"
+  },
+  {
+    "hash": "8de37e7ff835ed1f60ae6c5c385f1bfc",
+    "id": "Silence"
+  },
+  {
+    "hash": "822ea1e85e279f1d52a5f50bbb72763c",
+    "id": "Seer"
+  },
+  {
+    "hash": "5db853de6467022fa783e3efe830c3dc",
+    "id": "PlaceHit"
+  },
+  {
+    "hash": "9bcb74e9bdfdacc39c82aec73bd5a083",
+    "id": "Pretend"
+  },
+  {
+    "hash": "105372eea813fbf3058d1ac4ce8af5b8",
+    "id": "DownloadSubmerged"
+  },
+  {
+    "hash": "e200d6a2938348c59297e8c38c84d301",
+    "id": "GraveProtect"
+  },
+  {
+    "hash": "bb642495076da08f2f95d1a276f568e9",
+    "id": "IntruderSabotage"
+  },
+  {
+    "hash": "69919e59ff441eef3ad9f512b7cfe7d8",
+    "id": "UpdateReworked"
+  },
+  {
+    "hash": "5503699124182e0311cf57b091d7573e",
+    "id": "UpdateSubmerged"
+  },
+  {
+    "hash": "711d6130a19104ceec0447ed67e6a27f",
+    "id": "Doom"
+  },
+  {
+    "hash": "7948c27f0d711524f9ddea475ba3b3a8",
+    "id": "DownloadLevelImpostor"
+  },
+  {
+    "hash": "0e7774e7bd913868a228905c04cdc561",
+    "id": "MetalVentBomb"
+  },
+  {
+    "hash": "a8aafc4b9e1862d79deaf929f8cb7306",
+    "id": "PlantPlant"
+  },
+  {
+    "hash": "15eac9484a8e3f49285367b0fbdd0bbe",
+    "id": "PlantVentBomb"
+  },
+  {
+    "hash": "b029c731e52872e8215a57b57e83bc7b",
+    "id": "PolusVentBomb"
+  },
+  {
+    "hash": "e80b17055fdc0169e5ca71a95d53e0f2",
+    "id": "Warp"
+  },
+  {
+    "hash": "979090c14e2a5b4e1cdd8b8475fc63aa",
+    "id": "Arrow"
+  },
+  {
+    "hash": "56f9fc4454c366dc68817c9edfaecc02",
+    "id": "AshPile"
+  },
+  {
+    "hash": "c72795641afe1624a2a26a1c939ade33",
+    "id": "Blocked"
+  },
+  {
+    "hash": "5f2a14c004592233df53ef350421d6dd",
+    "id": "Chat"
+  },
+  {
+    "hash": "480ac5ad83659718cf86a76cb2f42fef",
+    "id": "FootprintLeft"
+  },
+  {
+    "hash": "95352c6d5ffbdd114228890fbaff507f",
+    "id": "FootprintRight"
+  },
+  {
+    "hash": "e8c248e67c2816508734ec6a045ebfcc",
+    "id": "Overlay"
+  },
+  {
+    "hash": "1237c07daa5faa74f48a8d618c1ea178",
+    "id": "Range"
+  },
+  {
+    "hash": "5901804015aa180db292ec11b9153637",
+    "id": "Phone"
+  },
+  {
+    "hash": "fa8b9f739732d93bcb44997c51e7372f",
+    "id": "Plate"
+  },
+  {
+    "hash": "0a13f6a5066012ca47b4b94b9bd271ee",
+    "id": "Blank"
+  },
+  {
+    "hash": "35f6a148ec8244f4f2ab32d0d7dc313f",
+    "id": "Dleks"
+  },
+  {
+    "hash": "9dbe4a52bff71e05f1a5cc6cad86e6f7",
+    "id": "Random"
+  },
+  {
+    "hash": "c763a1f475a636b9525c08b2e04bddce",
+    "id": "RandomMapIcon"
+  },
+  {
+    "hash": "6a57b68e3913d9beb0caa328a2087263",
+    "id": "DleksMapIcon"
+  },
+  {
+    "hash": "350f8e548694689ae8e972212a22c14a",
+    "id": "DleksBackground"
+  },
+  {
+    "hash": "d992a2467292a0c6f8f33acf376791f3",
+    "id": "DleksLobby"
+  },
+  {
+    "hash": "7c99bf9d3bd50b2ced5a22373ab692f0",
+    "id": "RandomMapBackground"
+  },
+  {
+    "hash": "9db1d15ce0cb40b2df5b6af35be97c01",
+    "id": "RandomMapLobby"
+  },
+  {
+    "hash": "0d8c36fbf316126c3731ff9a43d68de0",
+    "id": "Cog"
+  },
+  {
+    "hash": "8bcfeb4b0c1ebcd71f869524fe17f1c4",
+    "id": "CogActive"
+  },
+  {
+    "hash": "f6f442315c08e4f6e5bcdbb862d8c37a",
+    "id": "ReturnActive"
+  },
+  {
+    "hash": "ea5f2319419b6fcea93cfb315dbb5fae",
+    "id": "ReturnInactive"
+  },
+  {
+    "hash": "be3da99692b25f7a76938a72e76036d5",
+    "id": "MinusActive"
+  },
+  {
+    "hash": "f0d04a6e91a971a73eff7dd0dd930619",
+    "id": "MinusInactive"
+  },
+  {
+    "hash": "cf52678ed412d76f9ad26fb3fdc4e79c",
+    "id": "NextActive"
+  },
+  {
+    "hash": "a0b8386b4cba85ff0e38d8936411760e",
+    "id": "NextInactive"
+  },
+  {
+    "hash": "80480b85125afa05f6bbc07154869ede",
+    "id": "PlusActive"
+  },
+  {
+    "hash": "aef03c7eeee0a56103f1b1646c83da44",
+    "id": "PlusInactive"
+  },
+  {
+    "hash": "e67c2aeae4ae67917fea56cc7ef3bf3f",
+    "id": "SettingsActive"
+  },
+  {
+    "hash": "3f5e18ae144316f8c2399bcc0df8022d",
+    "id": "SettingsInactive"
+  },
+  {
+    "hash": "18f44cb03f1fd36850a35c50d882cd3b",
+    "id": "WikiActive"
+  },
+  {
+    "hash": "5d02ee6570b7ce9c300811b39bf54204",
+    "id": "WikiInactive"
+  },
+  {
+    "hash": "b990bcca0382ee801339dd7229145eb3",
+    "id": "Info"
+  },
+  {
+    "hash": "328ab3cd65ad5c0882e9cd49e928be44",
+    "id": "Discord"
+  },
+  {
+    "hash": "ec3a60c8c6539a07eb70b52f6737ea6e",
+    "id": "GitHub"
+  },
+  {
+    "hash": "dc9fb15e0aee1fcff3e01bae52a5f65a",
+    "id": "NightVision"
+  }
 ]

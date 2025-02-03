@@ -1,9 +1,30 @@
 [
-  { "id": "Alert" },
-  { "id": "GlitchIntro" },
-  { "id": "Bomb" },
-  { "id": "Hack" },
-  { "id": "Ignite" },
-  { "id": "SerialKillerWin" },
-  { "id": "UnHack" }
+  {
+    "hash": "6db4fea36a03ab040be4852412993889",
+    "id": "Alert"
+  },
+  {
+    "hash": "e13e9f97291aafb33885766e5a4c38d2",
+    "id": "GlitchIntro"
+  },
+  {
+    "hash": "2c7c64f13cd88d099a7ecb50a2c14dd8",
+    "id": "Bomb"
+  },
+  {
+    "hash": "2c695c1df1c6b26b84af6de9fea6e3b5",
+    "id": "Hack"
+  },
+  {
+    "hash": "15aa3a0607fc4a95db1a122cda978b3b",
+    "id": "Ignite"
+  },
+  {
+    "hash": "eb69fd80864521109b0102f9c1e66a6b",
+    "id": "SerialKillerWin"
+  },
+  {
+    "hash": "46b9724e9f5ce5a568e07db4f5e92825",
+    "id": "UnHack"
+  }
 ]

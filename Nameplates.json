@@ -1,32 +1,38 @@
 [
   {
-    "id": "nameplate0000",
+    "artist": "AlchlcDvl",
+    "mainhash": "d438a86649c29803e224e33b43ff0580",
     "name": "Jailed",
-    "artist": "AlchlcDvl"
+    "id": "nameplate0000"
   },
   {
-    "id": "nameplate0001",
+    "artist": "XiezibanWrite",
+    "mainhash": "3ea9a12e78325cc532c2be4e8385b82b",
     "name": "Ejected",
-    "artist": "XiezibanWrite"
+    "id": "nameplate0001"
   },
   {
-    "id": "nameplate0002",
+    "artist": "XiezibanWrite",
+    "mainhash": "be707c1586e94ec291b7be76dd307c1e",
     "name": "Run And Hide",
-    "artist": "XiezibanWrite"
+    "id": "nameplate0002"
   },
   {
-    "id": "nameplate0003",
+    "artist": "AlchlcDvl",
+    "mainhash": "c3a93f423d1dffa49edf6c04f9e1fd63",
     "name": "Not A Bug",
-    "artist": "AlchlcDvl"
+    "id": "nameplate0003"
   },
   {
-    "id": "nameplate0004",
+    "artist": "AlchlcDvl",
+    "mainhash": "24d1533a7966f7e394d04bf81a104d79",
     "name": "Not A Bug 2",
-    "artist": "AlchlcDvl"
+    "id": "nameplate0004"
   },
   {
-    "id": "nameplate0005",
+    "artist": "XiezibanWrite",
+    "mainhash": "3b8eea3fcc6258fc9f34f932c02f06f7",
     "name": "Crashed",
-    "artist": "XiezibanWrite"
+    "id": "nameplate0005"
   }
 ]
